@@ -1,0 +1,364 @@
+,BlockName,Category,CreatedOn,Crop,DistrictName,KCCAns,QueryText,QueryType,Season,Sector,StateName
+0,SHAHAPUR                                          ,Vegetables,2017-01-01 13:03:47.020,Cucumber,THANE,Spray super confidor 10 ml /15 liter of water(Imida 17.8 sl)-Bayer,Attack of Aphids,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+1,VIKRAMGAD                                         ,Others,2017-01-01 13:35:02.270,Others,THANE,"?????? ?????? (??./??.)-?.? - ?
+???????? ???? (????)-? * ?
+?????? ??????? (????)???-???
+??????? ??????? (??/??.)????-????
+??????? ????-??? ???, ???????, ???? ???????, ???????",?????? ???-?????(???-??? ? ???-????),	Plant Protection	,RABI,AGRICULTURE,MAHARASHTRA
+2,BHIWANDI,Vegetables,2017-01-02 10:34:11.430,Cucumber,THANE,spray m-45 30 gm in 15 liter water.,Attack of Blight?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+3,BHIWANDI,Others,2017-01-02 16:12:09.150,Others,THANE,This week weather is cloudy & not Possibility of Rainfall,farmer asked about Weather Report ?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+4,SHAHAPUR                                          ,Vegetables,2017-01-04 12:20:16.537,Bhindi(Okra/Ladysfinger),THANE,Spray Admire 5 gm  + Cabriotop 45 gm/15 Liter of Water (Imida 70 wp)-Bayer,attack of aphids and wilt on bhindi?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+5,PALGHAR                                           ,Fruits,2017-01-04 15:41:00.380,Jack Fruit,THANE,DRENCHING OF 00:52:34 - 60 GRAM + CALSHIAM 25 GRAM + BORON 25 GRAM / 15 LITER WATER,CONTROL OF FRUIT DROP ?,Fertilizer Use and Availability,RABI,HORTICULTURE,MAHARASHTRA
+6,BHIWANDI,Others,2017-01-05 12:24:16.690,Others,THANE,"TodayPartly cloudy, No Possibility of Rain",Asking about weather forecast  ?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+7,SHAHAPUR                                          ,Vegetables,2017-01-05 15:26:58.143,Bitter Gourd,THANE,perfect  1 mili /liter,virus on bitter gaurd,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+8,PALGHAR                                           ,Fruits,2017-01-06 11:19:13.347,Papaya,THANE,"aidmire=5gm+chilmix combi=40gm+vairason=30gm+stikar=10ml,,15 LITER WATER",papaya attack vairas?,	Plant Protection	,KHARIF,HORTICULTURE,MAHARASHTRA
+9,PALGHAR                                           ,Fruits,2017-01-06 11:44:24.053,Papaya,THANE,Spray Kasu-B 3 gm/15 Liter of Water(Kasugamycin+streptocycline)-Dhanuka,Attack of  Virus,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+10,MURBAD                                            ,Vegetables,2017-01-06 13:57:41.210,Bhindi(Okra/Ladysfinger),THANE,Spray 00:52:34 30gm + Microlla 40ml + Bavistine 30gm/15 Litre Water.,fertilizer spray for bhendi?,Fertilizer Use and Availability,RABI,HORTICULTURE,MAHARASHTRA
+11,SHAHAPUR                                          ,Vegetables,2017-01-06 16:35:57.777,Bitter Gourd,THANE,Spray Actra 5 gm/15 Liter of Water(Thiomithoxom 25%)-Syngenta,Attack of Aphids,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+12,SHAHAPUR                                          ,Vegetables,2017-01-06 16:46:28.097,Cucumber,THANE,spray - calsibor 2 mili / 1 liter of water.,asked about flower drop,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+13,PALGHAR                                           ,Vegetables,2017-01-06 17:20:25.250,Chillies,THANE,Spray Actra 5 gm + M-45 30 gm/15 Lit of Water.,Attack of Sucking Pest And Fungal Disease IN CHILLY?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+14,PALGHAR                                           ,Vegetables,2017-01-07 10:12:51.233,Cucumber,THANE,APPLICATION OF 00 52 34 2.5 KG /ACRE THROUGH DRIP,FARMER ASKED ABOUT DRIP FERTILIZERS FOR CUCUMBER ?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+15,SHAHAPUR                                          ,Plantation Crops,2017-01-07 13:11:59.503,Teak,THANE,COLLEGE OF FORESTRY DAPOLI -02358- 283655,FARMER ASKED ABOUT TEAK CULTIVATION ?,Training and Exposure Visits,RABI,HORTICULTURE,MAHARASHTRA
+16,BHIWANDI,Vegetables,2017-01-07 14:54:25.680,Bottle Gourd ,THANE,spray 0.8 % bordo mixture for control of bottle gourd.,asked about fruit rot in bottle gourd,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+17,PALGHAR                                           ,Animal,2017-01-07 18:20:26.683,POULTRY  FARM ,THANE,for detail information visit to agriculture officer,asked about government scheme ?,Animal Breeding,RABI,ANIMAL HUSBANDRY,MAHARASHTRA
+18,SHAHAPUR                                          ,Vegetables,2017-01-08 09:58:33.550,Chillies,THANE,Spray super confidor 04 ml /15 liter of water(Imida 17.8 sl)-Bayer,ASKING ABOUT CHILLIES SPRYING ?,Fertilizer Use and Availability,RABI,HORTICULTURE,MAHARASHTRA
+19,KALYAN                                            ,Others,2017-01-08 10:12:31.293,Others,THANE,information was given 25-50 %SUBSIDY ON AGRICULTURAL EQUIPMENT MORE DETAIL PLEASE VISIT YOUR tahasil agricultural officer.,ASKING ABOUT SUBSIDY ON AGRICULTURAL EQUIPMENTS ?,Government Schemes,KHARIF,AGRICULTURE,MAHARASHTRA
+20,PALGHAR                                           ,Vegetables,2017-01-08 11:19:29.687,Sponge Gourd,THANE,Spray Amistar 5 Ml/15 Liter Of Water (Azactrostrobin)-Syngenta,Powdery Or Downy Or Blight,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+21,PALGHAR                                           ,Vegetables,2017-01-08 16:43:29.123,Chillies,THANE,fertilizer application in chilli = soil application of 18.46.0 one bag /acre,farmer asked about fertilizer application in chilli ?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+22,PALGHAR                                           ,Vegetables,2017-01-08 16:49:51.857,Chillies,THANE,DRENCHING OF BLUE COPPER 40 GM   /15 LITER of WATER .,asked about attack of wilt.,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+23,PALGHAR                                           ,Vegetables,2017-01-09 11:27:45.743,Pumpkin,THANE,attack of rot on pumpkin - drenching bavistin 3 gm / liter water,asked about attack of rot on pumpkin ?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+24,THANE                                             ,Others,2017-01-09 12:17:46.730,Others,THANE,"Mahatma Phule Krishi Vidyapeeth
+Address: Ahmednagar, Rahuri, Maharashtra 413722
+Phone: 02426 243 861",MPKV RAHURI CONTACT,	Plant Protection	,KHARIF,AGRICULTURE,MAHARASHTRA
+25,ULHASNAGAR                                        ,Vegetables,2017-01-09 15:29:53.767,Bhindi(Okra/Ladysfinger),THANE,Spray Bavistine 30gm/15liter of Water(Carbendazim 50%)BASF,Fungicides- Bhendi?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+26,SHAHAPUR                                          ,Vegetables,2017-01-10 19:12:38.710,Brinjal,THANE,19 19 19 60 GM  + MICROLLA 30 ML + BAVISTIN 30 GM/15 LITER WATER,ASKING ABOUT BRINJAL SPRYING ?,Fertilizer Use and Availability,RABI,HORTICULTURE,MAHARASHTRA
+27,MURBAD                                            ,Vegetables,2017-01-10 19:38:43.390,Cucumber,THANE,SPRAY MICROLA 30 ML+ BAVISTIN 30 GM /15 LITER WATER,YELLOWING- CUCUMBER?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+28,THANE                                             ,Others,2017-01-11 10:05:12.827,Others,THANE,visit  krushi adhikari,asked about government scheme ?,Government Schemes,RABI,AGRICULTURE,MAHARASHTRA
+29,BHIWANDI,Oilseeds,2017-01-12 09:26:08.817,Sesame (Gingelly/Til)/Sesamum,THANE,til MINIMUM SUPPORT PRICE=  5000 (includes Rs.100/- Bonus),til MINIMUM SUPPORT PRICE?,Market Information,RABI,AGRICULTURE,MAHARASHTRA
+30,PALGHAR                                           ,Vegetables,2017-01-13 16:44:17.033,Chillies,THANE,LEAF CURL ON CHILLI  - ACTRA 5 GM + REDOMIL GOLD 30 GM /15 LITER WATER SPRAY,LEAF CURL ON CHILLI,	Plant Protection	,KHARIF,HORTICULTURE,MAHARASHTRA
+31,MURBAD                                            ,Vegetables,2017-01-16 13:33:26.047,Drum Stick,THANE,"VARIETIES OF DRUMSTICKS- KOKAN RUCHIRA , P.K.M-1,P.K.M-1, ODISHI",ASKED ABOUT VARIETIES OF DRUMSTICKS ?,Seeds and Planting Material,RABI,HORTICULTURE,MAHARASHTRA
+32,PALGHAR                                           ,Others,2017-01-16 16:32:27.777,Others,THANE,Spray Score  8 ml/15 Liter of Water(Difenconyazol 25%EC)-Syngenta,"blight  or Wilt (????,??)",	Plant Protection	,RABI,AGRICULTURE,MAHARASHTRA
+33,WADA                                              ,Animal,2017-01-17 11:52:21.860,POULTRY  FARM ,THANE,"Dr. Gaikwad Sanjay ,
+Central Hatchery , Pune-Mumbai Road, Kadaki Pune-411003 020-25815974	9822318248",asked about availability of poultry chicks ?,	Maket Information	,RABI,ANIMAL HUSBANDRY,MAHARASHTRA
+34,MURBAD                                            ,Vegetables,2017-01-17 20:34:54.427,Cucumber,THANE,200 GM UREA + MICROLLA 100 ML + BAVISTIN 30 GM/15 LITER WATER,Growth Sprayer?,Fertilizer Use and Availability,RABI,HORTICULTURE,MAHARASHTRA
+35,PALGHAR                                           ,Others,2017-01-18 09:12:49.933,Others,THANE,Your Registration process successfully completed,Asked About SMS Activation?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+36,SHAHAPUR                                          ,Others,2017-01-19 11:48:41.790,Others,THANE,In This Week Clear weather Possibility of rainfall today.,Asking about Weather Forecast ?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+37,MOKHADA                                           ,Inland,2017-01-19 12:21:57.117,Others,THANE,"rohu , katla, mrugal",breed of fish?,Breeding and culture of ornamental fish,RABI,FISHERIES,MAHARASHTRA
+38,SHAHAPUR                                          ,Others,2017-01-19 16:13:28.330,Others,THANE,Sky is mainly to be cloudy. Maximum and Minimum temperatures would be around 35 Deg. C and 17* Deg. C respectively.,ASKING ABOUT WEATHER INFORMATION ?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+39,SHAHAPUR                                          ,Vegetables,2017-01-19 18:16:45.423,Bitter Gourd,THANE,fertilizer dose  = 00:52:34 - 4 kg / acre through drip,fertilizer dose ?,Fertilizer Use and Availability,RABI,HORTICULTURE,MAHARASHTRA
+40,SHAHAPUR                                          ,Vegetables,2017-01-21 14:50:48.370,Onion,THANE,Spray 00:52:34 60 gm + Microla 30ml/ 15 lit water,Growth Sprayer?,Fertilizer Use and Availability,KHARIF,HORTICULTURE,MAHARASHTRA
+41,MURBAD                                            ,Vegetables,2017-01-22 17:23:06.330,Bhindi(Okra/Ladysfinger),THANE,SPRAY PLANOFIX 4 ML /15 LITER WATER.,FLOWER DROP?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+42,PALGHAR                                           ,Others,2017-01-23 16:47:32.923,Others,THANE,This week weather is Partly cloudy and no Possibility of Rainfall.,Asking about weather forecast?,Weather,JAYAD,AGRICULTURE,MAHARASHTRA
+43,THANE                                             ,Fruits,2017-01-23 20:14:46.523,Orange,THANE,Scratch gummosis and take a potassium permanganate1% for wash and apply Bordo Mixture,"FOR GUMMOSIS ON ORANGE,MOSAMBI AND LEMON(????)",	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+44,THANE                                             ,Vegetables,2017-01-23 21:06:47.600,Bhindi(Okra/Ladysfinger),THANE,SPRAY M 45 30 GM /15 LITER WATER(mancozeb)Dow Agro,Attack of  Wilt,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+45,THANE                                             ,Vegetables,2017-01-24 10:04:58.850,Bhindi(Okra/Ladysfinger),THANE,"for control of flower drop in bhindi=
+SPRAY PLANOFIX 4 ML(Bayer) in 15 LITER WATER..........",Farmer asked about flower drop in bhindi?,Cultural Practices,RABI,HORTICULTURE,MAHARASHTRA
+46,SHAHAPUR                                          ,Vegetables,2017-01-24 10:44:21.410,Bhindi(Okra/Ladysfinger),THANE,SPRAY 00:52:34 60 GM +  MICROLA 45 ML + M 45 40 GM/15 LITER WATER,ASKED ABOUT ATTACK OF FUNGUS ON BHINDI ?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+47,MURBAD                                            ,Others,2017-01-24 15:38:42.967,Others,THANE,Your Registration process successfully completed,Asked About SMS Activation?,Government Schemes,RABI,AGRICULTURE,MAHARASHTRA
+48,PALGHAR                                           ,Others,2017-01-24 19:28:52.923,Others,THANE,"Address: Kosbad Hill, Tal- Dahanu, Thane, Maharashtra 401 703
+Phone: 02528 241 439",kvk kosbad hill contact no?,Cultural Practices	,RABI,AGRICULTURE,MAHARASHTRA
+49,PALGHAR                                           ,Fruits,2017-01-27 09:51:25.113,Mango,THANE,spraying at flowering stage on MANGO -00 52 34 60 gm + microla 30 ml + BAVISTIN 30 GRAM / 15 lit water,ASKING ABOUT SPRAYING FOR MANGO ?,Nutrient Management,RABI,HORTICULTURE,MAHARASHTRA
+50,SHAHAPUR                                          ,Others,2017-01-27 19:17:29.557,Others,THANE,"Weather Is Partly Cloudy, Not Possibility Of Rain.",Asked About Weather Information?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+51,SHAHAPUR                                          ,Vegetables,2017-01-28 11:29:10.613,Chillies,THANE,Spray of bio-303 15ml/15lit.water.,Attack of Thrips?,	Plant Protection	,JAYAD,HORTICULTURE,MAHARASHTRA
+52,PALGHAR                                           ,Vegetables,2017-01-29 12:55:37.040,Cowpea (Vegetable),THANE,SPRAY PLANOFIX 4 ML(Bayer) /15 LITER WATER,FLOWER DROP,Bio-Pesticides and Bio-Fertilizers,RABI,HORTICULTURE,MAHARASHTRA
+53,MURBAD                                            ,Pulses,2017-01-29 16:45:34.660,Green Gram (Moong Bean/ Moong),THANE,Spray super confidor 04 ml /15 liter of water(Imida 17.8 sl)-Bayer,"Attack of Aphids,Thrips and Jassids on green gram ?",	Plant Protection	,RABI,AGRICULTURE,MAHARASHTRA
+54,MURBAD                                            ,Vegetables,2017-01-30 09:40:45.390,Cucumber,THANE,spray politrin c 15 ml / 15 litter of water for controlling caterpillar on cucumber,attack of caterpillar on cucumber ?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+55,SHAHAPUR                                          ,Vegetables,2017-01-30 11:18:03.443,Bitter Gourd,THANE,SPRAY POWER PLUS 30 MILI/ 15 LITER OF WATER.,GROWTH SPRAY FOR BITTER GOURD?,Fertilizer Use and Availability,RABI,HORTICULTURE,MAHARASHTRA
+56,MURBAD                                            ,Vegetables,2017-01-30 17:14:51.840,Cucumber,THANE,Downy on cucumber - Spray Tilt 07 ml/15 Liter of Water(Propiconyazol 25%EC)-Syngenta,asking about Downy on cucumber ?,Nutrient Management,RABI,HORTICULTURE,MAHARASHTRA
+57,SHAHAPUR                                          ,Others,2017-01-30 19:10:19.663,Others,THANE,"Today Partly clean , No Possibility of Rain",Asking about weather forecast  ?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+58,THANE                                             ,Medicinal and Aromatic Plants,2017-01-31 20:25:59.490,Aloe Vera,THANE,partly cloudy weather condition no possibility of rain,Asked about weather forecasting ?,Weather,KHARIF,HORTICULTURE,MAHARASHTRA
+59,DAHANU                                            ,Others,2017-02-01 10:36:16.547,Others,THANE,visit to Taluka.krushi.adikari.. FOR MORE INFORMATION.,Asked about GOVT SCHEME ?,Government Schemes,RABI,AGRICULTURE,MAHARASHTRA
+60,JAWHAR                                            ,Vegetables,2017-02-01 16:05:50.730,Bhindi(Okra/Ladysfinger),THANE,for control of Leaf Miner on lady finger  Spray polytrin -c 20 ml/15 liter of water.,Attack of Leaf Miner on lady finger ?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+61,SHAHAPUR                                          ,Vegetables,2017-02-02 12:37:01.363,Ridge Gourd,THANE,Spray Boom flower 20ml(DeviCropscience)/15 liter of Water.,FOR BLOOSMING ?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+62,SHAHAPUR                                          ,Others,2017-02-02 12:45:28.717,Others,THANE,active plus plant growth regulator ( shakti crop care )  - 08045316805,asked about active plus plant growth regulator  ?,Bio-Pesticides and Bio-Fertilizers,RABI,AGRICULTURE,MAHARASHTRA
+63,WADA                                              ,Others,2017-02-02 12:56:32.367,Others,THANE,soil testing lab thane contact no-022-25823389,soil testing lab thane contact no?,Soil Testing	,RABI,AGRICULTURE,MAHARASHTRA
+64,SHAHAPUR                                          ,Vegetables,2017-02-02 13:57:26.103,Bitter Gourd,THANE,spray denocap- 1 mili / 1 liter of water.,asked about attack of wilt,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+65,KALYAN                                            ,Others,2017-02-02 15:37:58.943,Others,THANE,"?????? - 02358- 283655
+????????? ???????????, ??????",??? ??????? ?????,	Field Preparation	,JAYAD,AGRICULTURE,MAHARASHTRA
+66,KALYAN                                            ,Animal,2017-02-03 12:24:50.547,"Bovine(Cow,Buffalo)",THANE,"Address
+
+Agricultural Development Trust’s
+
+KRISHI VIGYAN KENDRA, BARAMATI
+
+At Post: Malegaon Khurd,
+Tal.Baramati,
+Dist. Pune,
+Pin 413115, Maharashtra, INDIA
+Email
+kvkbmt@yahoo.com
+Phone
+02112-255207/255227",kvk baramati contact?,Animal Breeding,KHARIF,ANIMAL HUSBANDRY,MAHARASHTRA
+67,DAHANU                                            ,Others,2017-02-04 15:44:56.457,Others,THANE,"?????? ?????? (??./??.)-???? ?-?? ? ??? ??-??
+???????? ???? (??.????)-??*?? ? ??*??
+?????? ??????? (????)???-???
+??????? ??????? (???????/??.)-??-??
+??????? ????-???? ???????,????? ???????,,??????,??????",?????? ???-????(???-??? ? ???-????),	Plant Protection	,JAYAD,AGRICULTURE,MAHARASHTRA
+68,MURBAD                                            ,Others,2017-02-05 13:51:26.827,Others,THANE,soil test  - contact to soil test lab . or krushi vidnyan kendra .,asked about soil test ?,Soil Testing	,JAYAD,AGRICULTURE,MAHARASHTRA
+69,MURBAD                                            ,Vegetables,2017-02-06 12:35:10.397,Bhindi(Okra/Ladysfinger),THANE,SPRAY MICROLA 45 ML + M 45 40 GM/15 LITER WATER,YELLOWING ON BHINDI?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+70,SHAHAPUR                                          ,Others,2017-02-06 15:52:22.650,Others,THANE,THIS WEEK WEATHER IS CLEAR  LIGHT RAINFALL CHANCES,Asking about weather forecast ?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+71,VASAI                                             ,Others,2017-02-06 17:29:48.733,Others,THANE,"???????? ????(????)-?*?(??? ????)??*?(??? ????)??*??*?? ??.??
+???? ??????-????????? ??-?? ????
+??? ????????? ?????:??????(???-?????)?????(???????-???????)
+??????? ??????? (??/??.)??(???-??? ???/???)
+?????? ??????-??-?? ?????
+???????-???-???? ???/???
+??????? ????-??????,??????,??? ?????,???? ?????",?????? ??? ?????(???????-????????? ? ???-?????????),	Plant Protection	,JAYAD,AGRICULTURE,MAHARASHTRA
+72,SHAHAPUR                                          ,Vegetables,2017-02-07 10:15:42.597,Bitter Gourd,THANE,fertilizer dose for bitter gourd  By Drip 00:52:34 - 3 kg + microlla  300 ml + humic acid 300 ml,asked about fertilizer dose for bitter gourd  ?,Nutrient Management,RABI,HORTICULTURE,MAHARASHTRA
+73,DAHANU                                            ,Vegetables,2017-02-07 12:28:39.157,Brinjal,THANE,Spray of Antracol 25gm/15 Liter of Water.,Attack of blight?,	Plant Protection	,JAYAD,HORTICULTURE,MAHARASHTRA
+74,MURBAD                                            ,Others,2017-02-08 07:56:30.910,Others,THANE,TODAY IS CLEAN WEATHER NO POSSIBILITY OF RAIN.,Asking About Weather Forecast?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+75,WADA                                              ,Others,2017-02-08 09:19:48.190,Others,THANE,MOSTLY CLEAR WEATHER NO CHANCES OF RAINFALL,Asking about weather forecast  ?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+76,KALYAN                                            ,Animal,2017-02-08 15:30:04.397,POULTRY  FARM ,THANE,CONTACT NO OF ANIMAL HUSBANDARY DEPARTMENT = 1800 233 3268,ASKING CONTACT NO OF ANIMAL HUSBANDARY DEPARTMENT?,Animal Breeding,RABI,ANIMAL HUSBANDRY,MAHARASHTRA
+77,AMBERNATH                                         ,Others,2017-02-08 15:31:42.897,Others,THANE,"Clear Weather , No Possibility of Rain",Asking about weather forecast  ?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+78,SHAHAPUR                                          ,Others,2017-02-08 18:01:52.717,Others,THANE,Your SMS Registration process successfully completed.,Asked About SMS Activation?,Government Schemes,JAYAD,AGRICULTURE,MAHARASHTRA
+79,THANE                                             ,Animal,2017-02-08 18:48:15.757,Goat,THANE,"Krishi Vigyan Kendra
+Address: Kosbad Hill, Tal- Dahanu, Thane, Maharashtra 401 703
+Phone:02528 241 439",kvk thane cotact?,Animal Breeding,KHARIF,ANIMAL HUSBANDRY,MAHARASHTRA
+80,MOKHADA                                           ,Others,2017-02-09 11:34:50.657,Others,THANE,DETAIL PLEASE VISIT YOUR tahasil agricultural officer.,govt scheme?,Government Schemes,RABI,AGRICULTURE,MAHARASHTRA
+81,VASAI                                             ,Others,2017-02-09 14:04:15.037,Others,THANE,"Dr. V.R. Gawas 
+Programme Coordinator 
+Krishi Vigyan Kendra
+PO:Kosbad Hills 
+Thane - 401703
+
+02528-
+241439
+
+02528-
+241439",Krishi Vigyan Kendra,Government Schemes,KHARIF,AGRICULTURE,MAHARASHTRA
+82,MURBAD                                            ,Vegetables,2017-02-10 11:43:52.410,Brinjal,THANE,VARIETIES OF BRINJAL -MANJARI GOTA VAISHALI PRAGATI ARUNA KRUSHNA ARJUN GAURAV MEGHANA LALITA,VARIETIES OF BRINJAL ?,Seeds and Planting Material,RABI,HORTICULTURE,MAHARASHTRA
+83,ULHASNAGAR                                        ,Others,2017-02-11 07:34:39.270,Others,THANE,"Today Partly clean , No Possibility of Rain",Asking about weather forecast  ?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+84,THANE                                             ,Others,2017-02-11 10:17:19.500,Others,THANE,FOR MORE DETAIL ABOUT  LOAN PLEASE VISIT YOUR NEARER NATIONALIZED BANK,ASKING ABOUT  LOAN ?,Government Schemes,RABI,AGRICULTURE,MAHARASHTRA
+85,DAHANU                                            ,Vegetables,2017-02-11 11:02:42.730,Chillies,THANE,spray 00 52 34 60 gm + microla 30 ml/ 15 lit water,Growth Sprayer on chilli?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+86,THANE                                             ,Others,2017-02-13 11:44:32.530,Others,THANE,18002330418,contact number for animal husbandary?,Government Schemes,RABI,AGRICULTURE,MAHARASHTRA
+87,BHIWANDI,Others,2017-02-13 13:17:44.000,Others,THANE,This week weather is Partly cloudy and no Possibility of Rainfall.,Asking About Weather Forecast?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+88,MURBAD                                            ,Vegetables,2017-02-14 17:10:57.980,Cucumber,THANE,Spray Ullala 08 gm/15 Lit of Water(flonicamid)-UPL,Attack of White Fly?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+89,SHAHAPUR                                          ,Flowers,2017-02-15 12:13:23.837,Marigold,THANE,19 19 19 30 M60 GM  + MICROLLA 30 ML + BAVISTIN 30 GM/15 LITER WATER,YELLOWING,Fertilizer Use and Availability,RABI,HORTICULTURE,MAHARASHTRA
+90,MURBAD                                            ,Vegetables,2017-02-18 11:59:58.590,Cucumber,THANE,SPRAY MICROLLA 30 ML + BAVISTIN 30 GM /15 LITER WATER.,YELLOWING IN CUCUMBER?,Nutrient Management,JAYAD,HORTICULTURE,MAHARASHTRA
+91,MURBAD                                            ,Vegetables,2017-02-18 12:18:19.283,Cucumber,THANE,Spray Actra 5 gm/15 Liter of Water(Thiomithoxom 25%)-Syngenta,attack of thrips?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+92,BHIWANDI,Fruits,2017-02-18 17:54:32.307,Mango,THANE,Spray Score  8 ml/15 Liter of Water(Difenconyazol 25%EC)-Syngenta,Attack of  blight,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+93,THANE                                             ,Others,2017-02-19 12:06:07.850,Others,THANE,CONTACT NO OF ANIMAL HUSBANDARY DEPARTMENT = 1800 233 0418.,ASKING CONTACT NO OF ANIMAL HUSBANDARY DEPARTMENT ?,Government Schemes,JAYAD,AGRICULTURE,MAHARASHTRA
+94,PALGHAR                                           ,Fiber Crops,2017-02-19 17:36:04.387,Cotton (Kapas),THANE,"Today's Weather is clear, No Possibility of Rain.",Asking About Weather Forecast ?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+95,MOKHADA                                           ,Others,2017-02-20 21:12:25.400,Others,THANE,"Clear Weather , No Possibility of Rain.",Asking about weather forecast  ?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+96,DAHANU                                            ,Pulses,2017-02-21 11:39:56.853,Pigeon pea (red gram/arhar/tur),THANE,Spray Profex super 20 ml/15 liter of water(Profenofos+ Cypermethrin)-Nagarjuna,Attack of Caterpillar?,	Plant Protection	,RABI,AGRICULTURE,MAHARASHTRA
+97,THANE                                             ,Others,2017-02-21 16:37:30.230,Others,THANE,Your Registration process successfully completed,Asked About SMS Activation?,Government Schemes,JAYAD,AGRICULTURE,MAHARASHTRA
+98,MURBAD                                            ,Vegetables,2017-02-22 08:08:32.900,Cucumber,THANE,Spray Boom flower 30 ml(Devi Cropscience)/15 liter of Water.,FOR BLOSSOMING?,	Plant Protection	,JAYAD,HORTICULTURE,MAHARASHTRA
+99,MURBAD                                            ,Vegetables,2017-02-22 08:48:39.463,Bhindi(Okra/Ladysfinger),THANE,For control of fruit borer on bhindi =Spray Tracer 4 ml / 15 liter of water(Spinosad)-Dow agro,Farmer asked about attack of fruit borer on bhindi ?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+100,MURBAD                                            ,Vegetables,2017-02-22 08:48:41.693,Bhindi(Okra/Ladysfinger),THANE,For control of fruit borer on bhindi =Spray Tracer 4 ml / 15 liter of water(Spinosad)-Dow agro,Farmer asked about attack of fruit borer on bhindi ?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+101,PALGHAR                                           ,Vegetables,2017-02-22 09:06:57.540,Chillies,THANE,Spray Karate 15 ml/15 Liter of Water.,Attack of Thrips and Jassids?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+102,SHAHAPUR                                          ,Others,2017-02-22 14:10:53.260,Others,THANE,Spray Boom flower 30ml(DeviCropscience)/15 liter of Water.,FOR BLOOSMING,	Plant Protection	,JAYAD,AGRICULTURE,MAHARASHTRA
+103,SHAHAPUR                                          ,Fruits,2017-02-24 09:27:02.637,Pomegranate,THANE,spray boron + calcium,spray for pomegranate?,Fertilizer Use and Availability,RABI,HORTICULTURE,MAHARASHTRA
+104,MURBAD                                            ,Fruits,2017-02-24 16:38:47.920,Mango,THANE,SPRAY PLANOFIX 3  ML(Bayer) 15 LITER WATER.,FLOWER DROP IN MANGO?,Nutrient Management,JAYAD,HORTICULTURE,MAHARASHTRA
+105,THANE                                             ,Vegetables,2017-02-24 18:33:38.833,Chillies,THANE,FERTILIZER DOSE FOR CHILLI = APPLICATION OF CALCIUM 20 GM + BORON 20 GRAM / PLANT,FERTILIZER DOSE FOR CHILLI ?,Fertilizer Use and Availability,RABI,HORTICULTURE,MAHARASHTRA
+106,WADA                                              ,Others,2017-02-25 15:56:22.147,Others,THANE,Send SMS KISAAN 1 to 51969 for Activation of the scheme.,Asked About SMS Activation?,Government Schemes,JAYAD,AGRICULTURE,MAHARASHTRA
+107,SHAHAPUR                                          ,Vegetables,2017-02-26 08:12:27.910,Bhindi(Okra/Ladysfinger),THANE,Spray Redomil Gold 30 gm/15 Liter of Water(Mephonaxon+Mancozeb)-Syngenta,blight  or Wilt,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+108,PALGHAR                                           ,Others,2017-02-26 12:36:16.737,Others,THANE,For Govt Schemes Contact Taluka Agriculture Officer.,Asking About Government Schemes?,Government Schemes,KHARIF,AGRICULTURE,MAHARASHTRA
+109,BHIWANDI,Others,2017-02-26 13:58:26.873,Others,THANE,This week weather is Partly cloudy and no Possibility of Rainfall.,Asking About Weather Forecast?,Weather,JAYAD,AGRICULTURE,MAHARASHTRA
+110,BHIWANDI,Fruits,2017-02-28 14:11:57.687,Papaya,THANE,19:19:19-60 GRAM + MICROLA- 30 MILI  / 15 LITER WATER,ASKED ABOUT FERTILIZER DOSE ?,Fertilizer Use and Availability,KHARIF,HORTICULTURE,MAHARASHTRA
+111,MURBAD                                            ,Vegetables,2017-02-28 18:53:35.527,Bhindi(Okra/Ladysfinger),THANE,Spray Regent 30 ml /15 liter water(Fipronil 5 SC)-Bayer.,ATTACK OF THRIPS and Jassids?,	Plant Protection	,JAYAD,HORTICULTURE,MAHARASHTRA
+112,KALYAN                                            ,Others,2017-02-28 21:29:42.400,Others,THANE,"in this week Weather is Partly cloudy, No Possibility of Rain.",Asking About Weather Forecast ?,Weather,JAYAD,AGRICULTURE,MAHARASHTRA
+113,SHAHAPUR                                          ,Vegetables,2017-03-01 10:05:13.803,Bhindi(Okra/Ladysfinger),THANE,Spray Polo 12 gm/ 15 lit of water (Diafenthiuron 50 % SC) SYNGENTA,Attack of White Fly ON BHENDI ?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+114,BHIWANDI,Fruits,2017-03-01 14:47:01.747,Papaya,THANE,10;26;26 500 GRAM +  MICROLA 200 ML/15 LIT WATER SPRYING ?,ASKING ABOUT PAPAYA SPRYING ?,Fertilizer Use and Availability,RABI,HORTICULTURE,MAHARASHTRA
+115,KALYAN                                            ,Vegetables,2017-03-01 18:25:25.243,Capsicum,THANE,FOR CONTROL OF BLIGHT ON CAPSICUM =Spray Tilt 07 ml/15 Liter of Water(Propiconyazol 25%EC)-Syngenta,FARMER ASKED ABOUT ATTACK OF BLIGHT ON CAPSICUM ?,	Plant Protection	,JAYAD,HORTICULTURE,MAHARASHTRA
+116,KALYAN                                            ,Vegetables,2017-03-01 19:22:04.067,Chillies,THANE,Spray Redomil Gold 30 GM /15 LITER WATER(Metalaxl-M)-Syngenta,Fungicides,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+117,THANE                                             ,Others,2017-03-02 11:13:58.560,Others,THANE,"APPS-KISAN SUVIDHA,SHEKRU,IFFCO KISAN 
+PHONE NO.THANE -022-25823389",ASKED ABOUT SOIL TESTING LAB?,Soil Testing	,KHARIF,AGRICULTURE,MAHARASHTRA
+118,BHIWANDI,Vegetables,2017-03-02 17:51:38.993,Brinjal,THANE,Spray Ullala 08 gm/15 Lit of Water(flonicamid)-UPL,Attack of White Fly?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+119,WADA                                              ,Others,2017-03-02 18:32:39.433,Others,THANE,"??????? ????-?? ??,???????,?? ?,??????,?????",?????? ???-???? (?????????-???????),	Field Preparation	,JAYAD,AGRICULTURE,MAHARASHTRA
+120,JAWHAR                                            ,Animal,2017-03-02 18:56:12.130,"Bovine(Cow,Buffalo)",THANE,CONTACT NO OF ANIMAL HUSBANDARY DEPARTMENT = 1800 233 3268,ASKING CONTACT NO OF ANIMAL HUSBANDARY DEPARTMENT?,"Animal Production (Piggery, Goatery, Sheep Farming etc.)",JAYAD,ANIMAL HUSBANDRY,MAHARASHTRA
+121,MURBAD                                            ,Fiber Crops,2017-03-04 16:27:18.390,Cotton (Kapas),THANE,ACTRA 5 GRAM  + KARATE15  MILI /PAMP SPRAY ON CROP.,Attack of Caterpillar  ?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+122,DAHANU                                            ,Vegetables,2017-03-04 19:14:11.017,Brinjal,THANE,Spray Actra 5 gm/15 Liter of Water(Thiomithoxom 25%)-Syngenta,Attack of Thrips ON BRINJAL ?,	Plant Protection	,JAYAD,HORTICULTURE,MAHARASHTRA
+123,SHAHAPUR                                          ,Vegetables,2017-03-05 19:56:51.477,Brinjal,THANE,SPRAY PLANOFIX 4 ML(Bayer)+ 00:52:34 60 GM/15 LITER WATER,FLOWER DROP IN BRINJAL?,Cultural Practices,RABI,HORTICULTURE,MAHARASHTRA
+124,PALGHAR                                           ,Fiber Crops,2017-03-06 16:10:18.600,Cotton (Kapas),THANE,In This Week Clear Weather NO Possibility of rainfall.,Asking about Weather Forecast ?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+125,MURBAD                                            ,Vegetables,2017-03-06 16:54:34.240,Watermelon,THANE,partly cloudy weather condition no possibility of rain,Asked about weather forecasting ?,Organic Farming,RABI,HORTICULTURE,MAHARASHTRA
+126,MURBAD                                            ,Vegetables,2017-03-06 16:59:17.267,Watermelon,THANE,"water melon variety-Agastha, Sugar Beby, Black Magic, Sugar Manik.",water melon variety?,Seeds and Planting Material,RABI,HORTICULTURE,MAHARASHTRA
+127,SHAHAPUR                                          ,Others,2017-03-07 11:37:08.543,Others,THANE,SPRAY PLANOFIX 5 ML (Bayer) /15 LITER WATER,FLOWER DROP ?,	Plant Protection	,JAYAD,AGRICULTURE,MAHARASHTRA
+128,PALGHAR                                           ,Others,2017-03-07 15:50:12.877,Others,THANE,"Cloudy  Weather, No Possibility of Rain.",Asking about weather forecast?,Weather,JAYAD,AGRICULTURE,MAHARASHTRA
+129,MURBAD                                            ,Vegetables,2017-03-07 17:12:45.470,Bhindi(Okra/Ladysfinger),THANE,Spray Coragen 5ml/15 Liter of Water (Chlorantraniliprole)Dupont,ASKING ABOUT BHINDI SPRYING ?,Fertilizer Use and Availability,RABI,HORTICULTURE,MAHARASHTRA
+130,PALGHAR                                           ,Others,2017-03-08 10:33:17.670,Others,THANE,This Week Weather is Partly Cloudy and No Possibility of Rainfall.,Asking about weather forecast?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+131,DAHANU                                            ,Others,2017-03-08 11:56:33.190,Others,THANE,Clear Weather no Rainfall Chances Today,Asking about weather forecast ?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+132,DAHANU                                            ,Vegetables,2017-03-08 12:04:17.530,Brinjal,THANE,RS 1000-1800/QTL BRINJAL PUNE MARKET,ASKED ABOUT MARKET RATE OF BRINJAL ?,Seeds and Planting Material,RABI,HORTICULTURE,MAHARASHTRA
+133,DAHANU                                            ,Vegetables,2017-03-09 09:39:34.540,Cowpea (Vegetable),THANE,market rate of cowpea =6200	7000 RS /QUINTAL,asked about market rate of cowpea?,Market Information,RABI,HORTICULTURE,MAHARASHTRA
+134,MURBAD                                            ,Vegetables,2017-03-09 11:10:46.983,Bhindi(Okra/Ladysfinger),THANE,FOR CONTROL OF SUCKING PEST ON LADY FINGER  SPRAY ADMIRE 5 GM /15 liter water BAYER CROP SCIENCE,ASKED ABOUT ATTACK OF SUCKING PEST ON LADY FINGER ?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+135,AMBERNATH                                         ,Oilseeds,2017-03-09 12:04:36.487,Groundnut (pea nut/mung phalli),THANE,SPRAY 19 19 19 40 GM + MICROLLA 30 ML /15 LITERS OF WATER,FERTILIZER SPRAY FOR GROWTH ?,Fertilizer Use and Availability,RABI,AGRICULTURE,MAHARASHTRA
+136,AMBERNATH                                         ,Oilseeds,2017-03-09 12:14:08.423,Groundnut (pea nut/mung phalli),THANE,FERTILISER DOSE FOR groundnut - APPLICATION OF 10:26:26 1 BAG + UREA 20 KG + MICRO NUTRIENTS 10 KG/ACRE,ASKING ABOUT FERTILISER DOSE FOR groundnut ?,Fertilizer Use and Availability,RABI,AGRICULTURE,MAHARASHTRA
+137,THANE                                             ,Fruits,2017-03-10 11:21:42.100,Mango,THANE,"?? ???? ??????? ????? ?? ???? ??????? ??, ??? ????? ????, ?? ????? ??????  ??? ????? ????? ????????????? ????????? ?? ????? ???????. ??????? ?? ??????  ?????????? ?????? ?? ???? ?????????? ???????? ????? ?? ???? ??????? ??, ?.? ???? ????, ??? ????? ?????? ? ? ???? ????? ?????? ???????? ??? ???????? ??????.",Farmer asked about fertilizer application in mango ?,Fertilizer Use and Availability,JAYAD,HORTICULTURE,MAHARASHTRA
+138,THANE                                             ,Fruits,2017-03-10 11:21:42.803,Mango,THANE,"?? ???? ??????? ????? ?? ???? ??????? ??, ??? ????? ????, ?? ????? ??????  ??? ????? ????? ????????????? ????????? ?? ????? ???????. ??????? ?? ??????  ?????????? ?????? ?? ???? ?????????? ???????? ????? ?? ???? ??????? ??, ?.? ???? ????, ??? ????? ?????? ? ? ???? ????? ?????? ???????? ??? ???????? ??????.",Farmer asked about fertilizer application in mango ?,Fertilizer Use and Availability,JAYAD,HORTICULTURE,MAHARASHTRA
+139,SHAHAPUR                                          ,Others,2017-03-10 13:00:58.923,Others,THANE,dentasu @  3 gram  /15  gram  .pamp spray on crop .,pest,Bio-Pesticides and Bio-Fertilizers,KHARIF,AGRICULTURE,MAHARASHTRA
+140,WADA                                              ,Vegetables,2017-03-10 16:26:31.020,Bottle Gourd ,THANE,drenching redomil gold 30 gm / 15 litter of water for controlling wilt in bottle gourd,wilting of bottle gourd plant ?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+141,PALGHAR                                           ,Others,2017-03-11 10:56:19.040,Others,THANE,THIS WEEK WEATHER IS CLOUDY LIGHT RAINFALL CHANCES,Asking about weather forecast ?,Weather,JAYAD,AGRICULTURE,MAHARASHTRA
+142,THANE                                             ,Others,2017-03-11 11:37:07.013,Others,THANE,"Toll free no.-1800 425 0012 and 080 - 234 17 100.
+Mahatma Phule Krishi Vidyapeeth-rahuri,Ahmednagar
+(02426)243208,243311,243215",asked about phone no ?,Market Information,KHARIF,AGRICULTURE,MAHARASHTRA
+143,BHIWANDI,Others,2017-03-11 13:30:21.613,Others,THANE,THIS WEEK WEATHER IS CLOUDY AND NO RAINFALL CHANCES DURING THIS WEEK TEMP -MIN.-16 DEGREE AND MAX.- 29 DEGREE.,Asking about weather forecast ?,Government Schemes,RABI,AGRICULTURE,MAHARASHTRA
+144,SHAHAPUR                                          ,Fruits,2017-03-12 18:03:26.660,Mango,THANE,STEM BORAR ON MANGO  = NEAON WITH COTTON,STEM BORAR ON MANGO,	Plant Protection	,KHARIF,HORTICULTURE,MAHARASHTRA
+145,PALGHAR                                           ,Others,2017-03-12 19:07:04.740,Others,THANE,Today's weather Partly cloudy and  no Possibility of Rainfall.,Asking about weather forecast?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+146,MURBAD                                            ,Vegetables,2017-03-14 08:05:28.413,Cucumber,THANE,Spray Kavach  15 gm/15 Liter of Water(Chlorothalonil)-Syngenta,blight,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+147,PALGHAR                                           ,Vegetables,2017-03-14 14:48:18.260,Pumpkin,THANE,For control of crown rot in pumpkin = drenching of blue copper 30 gram + humic acid 30 ml in 15 liter of water.....,Farmer asked about about attack of crown rot in pumpkin ?,	Plant Protection	,JAYAD,HORTICULTURE,MAHARASHTRA
+148,PALGHAR                                           ,Vegetables,2017-03-16 09:51:04.557,Drum Stick,THANE,Drenching of Chloropyriphos 30 ml / 15 lit of water.,Attack of White Grub ?,	Plant Protection	,JAYAD,HORTICULTURE,MAHARASHTRA
+149,SHAHAPUR                                          ,Others,2017-03-16 12:41:59.993,Others,THANE,"Partly cloudy, No Possibility of Rain.",Asking about weather forecast  ?,Weather,JAYAD,AGRICULTURE,MAHARASHTRA
+150,SHAHAPUR                                          ,Vegetables,2017-03-16 12:55:05.700,Bhindi(Okra/Ladysfinger),THANE,Spray 00:52:34 - 40gm + Microlla 30ml + Bavistine 30gm/15Liter Water.,FERTILIZER SPRAY IN OKRA ?,Fertilizer Use and Availability,RABI,HORTICULTURE,MAHARASHTRA
+151,SHAHAPUR                                          ,Others,2017-03-16 12:59:05.430,Others,THANE,This week weather is Partly cloudy and Possibility of  light and meduim Rainfall.,Asking about weather forecast?,Weather,JAYAD,AGRICULTURE,MAHARASHTRA
+152,SHAHAPUR                                          ,Others,2017-03-17 14:40:52.483,Others,THANE,Spray Chloropyriphos 30ml/15 Liter of Water.,Attack of Caterpillar ??? ???? ??? ???????? ????,	Plant Protection	,JAYAD,AGRICULTURE,MAHARASHTRA
+153,SHAHAPUR                                          ,Others,2017-03-20 17:32:26.257,Others,THANE,SPRAY MICROLA 45 ML + M 45 40 GM/15 LITER WATER,YELLOWING,	Plant Protection	,JAYAD,AGRICULTURE,MAHARASHTRA
+154,SHAHAPUR                                          ,Others,2017-03-20 17:32:29.277,Others,THANE,"Clear Weather, No Possibility of Rain.",Asking about weather forecast  ?,Weather,JAYAD,AGRICULTURE,MAHARASHTRA
+155,SHAHAPUR                                          ,Others,2017-03-20 18:14:11.950,Others,THANE,TO PREPARE SLURRY MIX COW DUNG 10 KG + COW URINE 10 LITER + GRAM POWDER 2 KG + JAGGERY 2 KG + 200 LITER WATER. PUT IT FOR 7-8 DAYS. AFTER THAT USE IT PER ACRE /1 LITER PER PLANT,ASKING ABOUT PREPARATION OF SLURRY(JEEVAMRUT)?,	Plant Protection	,JAYAD,AGRICULTURE,MAHARASHTRA
+156,SHAHAPUR                                          ,Others,2017-03-20 18:14:37.900,Others,THANE,"This week weather is  Clear, No Possibility of Rain.",Asking about weather forecast?,Weather,JAYAD,AGRICULTURE,MAHARASHTRA
+157,SHAHAPUR                                          ,Others,2017-03-20 18:24:14.973,Others,THANE,For preparation of jivamrut use 10 kg cow dung + 10 liter cow urine + 2 kg flour mill  + 1 kg jaggary + 200 liter water shake well morning and evening till 4 -6 days.,PREPARATION OF JIVAMRUT?,Organic Farming,JAYAD,AGRICULTURE,MAHARASHTRA
+158,SHAHAPUR                                          ,Others,2017-03-20 19:18:54.597,Others,THANE,Send SMS KISAAN 1 to 51969 for deactivation of the scheme,Asked About SMS activation?,Weather,JAYAD,AGRICULTURE,MAHARASHTRA
+159,MURBAD                                            ,Flowers,2017-03-21 13:32:00.107,Marigold,THANE,MARIGOLD PLANTING -020- 25693750,ASKED ABOUT MARIGOLD PLANTING ?,Seeds and Planting Material,RABI,HORTICULTURE,MAHARASHTRA
+160,THANE                                             ,Others,2017-03-23 10:11:36.437,Others,THANE,FOR MORE DETAIL ABOUT KISAN CREDIT CARD PLEASE VISIT YOUR NEARER NATIONALIZED BANK,ASKING ABOUT KISAN CREDIT CARD ?,Credit,JAYAD,AGRICULTURE,MAHARASHTRA
+161,THANE                                             ,Others,2017-03-23 12:57:37.370,Others,THANE,"Mahatma Phule Krishi Vidyapeeth-rahuri,Ahmednagar
+(02426)243208,243311,243215",asked about phone no.?,Market Information,KHARIF,AGRICULTURE,MAHARASHTRA
+162,THANE                                             ,Others,2017-03-23 17:37:18.160,Others,THANE,FOR MORE DETAIL ABOUT KISAN CREDIT CARD PLEASE VISIT YOUR NEARER NATIONALIZED BANK,ASKING ABOUT KISAN CREDIT CARD ?,Government Schemes,RABI,AGRICULTURE,MAHARASHTRA
+163,THANE                                             ,Others,2017-03-25 08:46:07.700,Others,THANE,"Your Registration process successfully completed
+for sms activation type Kisaan1 and send it to 7738299899.",Asked About SMS Activation?,Government Schemes,RABI,AGRICULTURE,MAHARASHTRA
+164,PALGHAR                                           ,Others,2017-03-29 12:47:16.783,Others,THANE,Your SMS Registration process successfully completed.,Asked About SMS Activation?,Government Schemes,KHARIF,AGRICULTURE,MAHARASHTRA
+165,PALGHAR                                           ,Others,2017-03-29 14:55:17.147,Others,THANE,Cloudy Weather not Possibility of Rainfall.,Asking about Weather Forecast ?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+166,MOKHADA                                           ,Others,2017-03-29 15:07:04.943,Others,THANE,"+40°
+ 2 m/s
+Mostly clear
+Precip chance: 0%
+Humidity: 27%",temperature information?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+167,MURBAD                                            ,Others,2017-03-31 11:03:24.133,Others,THANE,THANE PHONE NO-022-25823389,ASKED ABOUT SOIL TESTING LAB PHONE NO.?,Soil Testing,KHARIF,AGRICULTURE,MAHARASHTRA
+168,AMBERNATH                                         ,Others,2017-03-31 13:05:12.940,Others,THANE,Your Registration process successfully completed,Asked About SMS Activation?,Government Schemes,RABI,AGRICULTURE,MAHARASHTRA
+169,AMBERNATH                                         ,Cereals,2017-04-01 15:28:56.493,Paddy (Dhan),THANE,Spray Quinalphos (25 % EC)15 ml/ l5 liter of water,asked about stem borer ?,	Plant Protection	,JAYAD,AGRICULTURE,MAHARASHTRA
+170,PALGHAR                                           ,Others,2017-04-02 18:22:25.690,Others,THANE,Your Registration process successfully completed,Asked About SMS Activation?,Government Schemes,JAYAD,AGRICULTURE,MAHARASHTRA
+171,PALGHAR                                           ,Fruits,2017-04-02 18:23:14.443,Mango,THANE,DRENCHING OF BLUE COPPER 30 GM + HUMIC ACID 30 ML/15 LITER WATER,DRENCHING IN MANGO?,	Plant Protection	,JAYAD,HORTICULTURE,MAHARASHTRA
+172,PALGHAR                                           ,Others,2017-04-04 17:59:01.350,Others,THANE,"Today Partly cloudy, No Possibility of Rain",Asking about weather forecast  ?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+173,SHAHAPUR                                          ,Others,2017-04-05 15:21:11.180,Others,THANE,Your SMS Registration process successfully completed.,Asked About SMS Activation?,Government Schemes,RABI,AGRICULTURE,MAHARASHTRA
+174,PALGHAR                                           ,Others,2017-04-06 15:47:52.043,Others,THANE,For preparation of jivamrut use 10 kg cow dung + 10 liter cow urine + 2 kg flour mill  + 1 kg jaggary + 200 liter water skake well morning and evening till 4 -6 days.,PREPARATION OF JIVAMRUT?,Agriculture Mechanization,JAYAD,AGRICULTURE,MAHARASHTRA
+175,AMBERNATH                                         ,Vegetables,2017-04-08 09:34:42.440,Cucumber,THANE,Spray Plano fix 5 ml/15 Lit of Water.(NAA) BAYER,Flower Drop IN CUCUMBER ?,	Plant Protection	,JAYAD,HORTICULTURE,MAHARASHTRA
+176,SHAHAPUR                                          ,Vegetables,2017-04-10 09:50:47.110,Bhindi(Okra/Ladysfinger),THANE,Spray Actra 5 gm/15 Lit of Water.,ATTACK OF SUCKING PEST?,	Plant Protection	,JAYAD,HORTICULTURE,MAHARASHTRA
+177,KALYAN                                            ,Others,2017-04-10 16:15:10.563,Others,THANE,"kalyan krishi vigyan kendra--Address: Kosbad Hill, Tal- Dahanu, Thane, Maharashtra 401 703
+Phone: 02528 241 439",kalyan krishi vigyan kendra,Government Schemes,RABI,AGRICULTURE,MAHARASHTRA
+178,BHIWANDI,Others,2017-04-11 14:23:09.890,Others,THANE,Today Clean  Weather no Rainfall Chances Today.,Asking about weather forecast ?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+179,PALGHAR                                           ,Others,2017-04-11 18:29:26.243,Others,THANE,Today Clean  Weather no Rainfall Chances Today.,Asking about weather forecast ?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+180,AMBERNATH                                         ,Beekeeping,2017-04-13 09:15:37.283,Beekeeping,THANE,"Central Bee Research InstituteWebsiteDirections
+ 
+Address: Near HP Petrol Pump, University Road, Shivajinagar, Pune, Maharashtra 411016
+Phone: 020 2567 5865",Central Bee Research InstituteWebsiteDirections,Market Information,KHARIF,AGRICULTURE,MAHARASHTRA
+181,KALYAN                                            ,Vegetables,2017-04-14 10:38:39.650,Bottle Gourd ,THANE,Lancer Gold 51.8 SP 30 GM +m 45 30 gm/15 LITERS OF WATER -(Acephate 50 + Imidacloprid 1.8 SP) UPL,ATTACK OF SUCKING PEST ?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+182,THANE                                             ,Others,2017-04-14 19:05:50.270,Others,THANE,FOR DETAIL INFORMATION ABOUT GOVERNMENT SCHEME  PLEASE VISIT YOUR TALUKA AGRICULTURE OFFICER,ASKING ABOUT GOVERNMENT SCHEME ?,Government Schemes,JAYAD,AGRICULTURE,MAHARASHTRA
+183,THANE                                             ,Others,2017-04-15 16:22:47.580,Others,THANE,FOR DETAIL INFORMATION ABOUT GOVERNMENT SCHEME  PLEASE VISIT YOUR TALUKA AGRICULTURE OFFICER,ASKING ABOUT GOVERNMENT SCHEME ?,Government Schemes,RABI,AGRICULTURE,MAHARASHTRA
+184,MURBAD                                            ,Fruits,2017-04-16 15:22:54.363,Mango,THANE,DEEP COTTON IN NUVAN AND PLACE IT INTO THE HOLE CREATED BY STEM BORER AND COVER THAT HOLE WITH MUD,Attack of Stem Borer ON MANGO ?,	Plant Protection	,JAYAD,HORTICULTURE,MAHARASHTRA
+185,PALGHAR                                           ,Flowers,2017-04-17 10:35:27.507,Jasmine,THANE,Spray Actra 5 gm/15 Liter of Water(Thiomithoxom 25%)-Syngenta,ATTACK OF SUCKING PEST ?,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+186,BHIWANDI,Others,2017-04-18 13:14:49.217,Others,THANE,Sky is  likely to be partly cloudy no chances of rainfall.,Asking about weather forecast  ?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+187,PALGHAR                                           ,Fruits,2017-04-20 19:14:07.457,Mango,THANE,SPRAY M 45 30 GM /15 LITER WATER(mancozeb)Dow Agro,blight on mango ?,	Plant Protection	,JAYAD,HORTICULTURE,MAHARASHTRA
+188,BHIWANDI,Others,2017-04-21 10:42:58.830,Others,THANE,Your Registration process for crop message  successfully completed,Asked About SMS Activation?,Government Schemes,JAYAD,AGRICULTURE,MAHARASHTRA
+189,BHIWANDI,Others,2017-04-21 10:42:59.373,Others,THANE,Your Registration process for crop message  successfully completed,Asked About SMS Activation?,Government Schemes,JAYAD,AGRICULTURE,MAHARASHTRA
+190,DAHANU                                            ,Others,2017-04-24 11:19:58.830,Others,THANE,animal expert toll free number  1800 233 0418,Farmer asking about animal nutrition?,Government Schemes,JAYAD,AGRICULTURE,MAHARASHTRA
+191,MURBAD                                            ,Others,2017-04-27 16:57:55.987,Others,THANE,Today's weather Partly cloudy and no Possibility of Rainfall.,Asking about weather forecast?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+192,THANE                                             ,Others,2017-04-27 20:46:53.323,Others,THANE,"Partly cloudy,  no Possibility of RAINFALL CHANCES",Asking about weather forecast  ?,Government Schemes,RABI,AGRICULTURE,MAHARASHTRA
+193,THANE                                             ,Cereals,2017-04-28 14:17:01.070,Wheat,THANE,Market Rate of wheat 1500-1900  rupees/qtl.,Asking About Market Rate of wheat?,Market Information,JAYAD,AGRICULTURE,MAHARASHTRA
+194,BHIWANDI,Others,2017-04-29 18:30:03.050,Others,THANE,"Today's Weather is clear, No Possibility of Rain.",Asking About Weather Forecast ?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+195,MURBAD                                            ,Others,2017-04-29 19:23:22.050,Others,THANE,Cloudy Weather no  Rainfall Chances Today.,Asking about weather forecast ?,	Plant Protection	,JAYAD,AGRICULTURE,MAHARASHTRA
+196,PALGHAR                                           ,Vegetables,2017-05-01 08:29:46.170,Bottle Gourd ,THANE,drenching with bavistin 30gm + humic acid 30ml/ 15 lit of water,wilt in bottle gourd?,	Plant Protection	,JAYAD,HORTICULTURE,MAHARASHTRA
+197,BHIWANDI,Others,2017-05-04 14:02:18.047,Others,THANE,This week weather is mostly clear and NO Possibility of Rainfall,Asking about weather forecast?,Weather,JAYAD,AGRICULTURE,MAHARASHTRA
+198,THANE                                             ,Others,2017-05-04 16:27:39.373,Others,THANE,"Partly cloudy, No Possibility of Rain.",Asking about weather forecast  ?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+199,AMBERNATH                                         ,Others,2017-05-06 15:45:40.547,Others,THANE,please visit TAO for subsidy related information,Asked For Govt. Schemes ?,Weather,JAYAD,AGRICULTURE,MAHARASHTRA
+200,THANE                                             ,Pulses,2017-05-06 20:55:16.380,Bengal Gram (Gram/Chick Pea/Kabuli/Chana),THANE,Market Rate  min- 5650		    maxi-  5650    average-  5650  rupees/qtl,Asking About Market Rate of?,Market Information,KHARIF,AGRICULTURE,MAHARASHTRA
+201,THANE                                             ,Others,2017-05-07 18:27:31.280,Others,THANE,"Clear Weather, No Possibility of Rain.",Asking about weather forecast?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+202,BHIWANDI,Others,2017-05-09 16:59:40.153,Others,THANE,"MARATHVADA KRISHI VIDYPITH PARBHANI(FODDER CROPS CONTACT NO)--- dR. DINESH CHAVAN - 9423171715,7218777879",MARATHVADA KRISHI VIDYPITH PARBHANI(FODDER CROPS CONTACT NO)---,Seeds,JAYAD,AGRICULTURE,MAHARASHTRA
+203,MURBAD                                            ,Others,2017-05-11 08:39:19.837,Others,THANE,AINFALL. THIS WEEK WEATHER IS CLoudy with chances of  LIGHT,Asking about weather forecast ?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+204,AMBERNATH                                         ,Others,2017-05-15 21:09:04.350,Others,THANE,Dr.Balasaheb Sawant Konkan Krishi Vidyapeeth-Dapoli- 02358 282 065,ASKED ABOUT CULTIVATION?,Market Information,KHARIF,AGRICULTURE,MAHARASHTRA
+205,THANE                                             ,Others,2017-05-17 19:01:43.770,Others,THANE,Cloudy Weather  Rainfall Chances Today.,dAsking about weather forecast ?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+206,THANE                                             ,Others,2017-05-17 19:22:14.257,Others,THANE,THIS WEEK WEATHER IS CLOUDY AND NO RAINFALL CHANCES,Asking about weather forecast ?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+207,THANE                                             ,Flowers,2017-05-18 08:27:41.220,Jasmine,THANE,FERTILIZER DOSE FOR JASMIN = SPRAY BOOM FLOWER 20 ML + 00:52:34 60 GM/15 LITER WATER,FERTILIZER DOSE FOR JASMIN ?,Fertilizer Use and Availability,JAYAD,HORTICULTURE,MAHARASHTRA
+208,THANE                                             ,Others,2017-05-20 13:42:10.557,Others,THANE,THIS WEEK WEATHER IS CLOUDY AND NO RAINFALL CHANCES DURING THIS WEEK. TEMP -MIN.- 30  DEGREE AND MAX.-  37 DEGREE.,Asking about weather forecast?,Weather,JAYAD,AGRICULTURE,MAHARASHTRA
+209,THANE                                             ,Others,2017-05-20 13:42:11.583,Others,THANE,THIS WEEK WEATHER IS CLOUDY AND NO RAINFALL CHANCES DURING THIS WEEK. TEMP -MIN.- 30  DEGREE AND MAX.-  37 DEGREE.,Asking about weather forecast?,Weather,JAYAD,AGRICULTURE,MAHARASHTRA
+210,BHIWANDI,Others,2017-05-20 14:58:47.393,Others,THANE,In This Week Clear Weather NO Possibility of rainfall.,Asking about Weather Forecast ?,Weather,JAYAD,AGRICULTURE,MAHARASHTRA
+211,SHAHAPUR                                          ,Others,2017-05-20 15:29:58.240,Others,THANE,THIS WEEK WEATHER IS CLOUDY NO RAINFALL CHANCES DURING THIS WEEK,Asking about weather forecast  ?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+212,THANE                                             ,Others,2017-05-25 15:31:32.227,Others,THANE,"Partly cloudy, No Possibility of Rain.",Asking about weather forecast  ?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+213,THANE                                             ,Others,2017-05-25 15:36:00.343,Others,THANE,"Partly cloudy, No Possibility of Rain.",Asking about weather forecast  ?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+214,BHIWANDI,Others,2017-05-26 12:46:01.510,Others,THANE,Cloudy weather no rainfall chances today.,Asking about weather forecast ?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+215,KALYAN                                            ,Animal,2017-05-26 19:33:40.880,"Bovine(Cow,Buffalo)",THANE,for dairy farm loan contact to nationalise bank for further details,asked about loan for dairy farm ?,Market Information,JAYAD,ANIMAL HUSBANDRY,MAHARASHTRA
+216,WADA                                              ,Others,2017-05-27 12:52:24.370,Others,THANE,animal husbandary  department contact number=18002330418/18002333268,asked about animal department contact number?,Government Schemes,JAYAD,AGRICULTURE,MAHARASHTRA
+217,THANE                                             ,Others,2017-05-28 11:21:00.457,Others,THANE,This week weather is Partly cloudy and no Possibility of Rainfall.,Asking about weather forecast?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+218,DAHANU                                            ,Others,2017-05-28 16:18:58.123,Others,THANE,"This week weather is Partly cloudy and no Possibility of Rainfall.
+Clear +29°
+ 4 m/s
+Clear
+Precip chance: 2%
+Humidity: 51%",Asking about weather forecast?,Fertilizer Use and Availability,KHARIF,AGRICULTURE,MAHARASHTRA
+219,PALGHAR                                           ,Others,2017-05-30 10:44:29.253,Others,THANE,This week weather is CLOUDY and LIGHT Possibility of Rainfall,Asking about weather forecast?,Weather,JAYAD,AGRICULTURE,MAHARASHTRA
+220,AMBERNATH                                         ,Others,2017-06-03 08:58:18.930,Others,THANE,FOR MORE DETAIL ABOUT KISAN CREDIT CARD PLEASE VISIT YOUR NEARER NATIONALIZED BANK,ASKING ABOUT KISAN CREDIT CARD ?,Credit,JAYAD,AGRICULTURE,MAHARASHTRA
+221,THANE                                             ,Others,2017-06-07 10:55:04.187,Others,THANE,Your Registration process successfully completed,Asked About SMS Activation?,Government Schemes,KHARIF,AGRICULTURE,MAHARASHTRA
+222,AMBERNATH                                         ,Fruits,2017-06-07 13:02:09.697,Jamun,THANE,"use  1 kg urea, 1.5 kgs single super phosphate and 500 gm of mutate of potash should be given per plant.",asked about fertilizer dose,Fertilizer Use and Availability,KHARIF,HORTICULTURE,MAHARASHTRA
+223,THANE                                             ,Others,2017-06-08 12:49:49.753,Others,THANE,Cloudy Weather  Rainfall Chances Today.,ASKING ABOUT WEATHER FORECAST ?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+224,BHIWANDI,Others,2017-06-08 18:15:10.227,Others,THANE,"THIS WEEK IS PARTLY CLOUDY , RAINFALL CHANCES",ASKING ABOUT WEATHER INFORMATION  ?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+225,PALGHAR                                           ,Others,2017-06-09 17:14:07.193,Others,THANE,This week weather is CLOUDY and LIGHT Possibility of Rainfall,Asking about weather forecast?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+226,THANE                                             ,Others,2017-06-11 10:22:57.033,Others,THANE,THIS WEEK WEATHER IS CLOUDY LIGHT RAINFALL CHANCES,Asking About Weather Forecast?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+227,BHIWANDI,Others,2017-06-11 14:26:45.643,Others,THANE,Your SMS Registration process successfully completed.,Asked About SMS Activation?,Government Schemes,JAYAD,AGRICULTURE,MAHARASHTRA
+228,AMBERNATH                                         ,Fruits,2017-06-12 10:13:54.127,Pomegranate,THANE,SPRAY PLANOFIX 4ML/15 LITER WATER,FLOWER DROP?,	Plant Protection	,KHARIF,HORTICULTURE,MAHARASHTRA
+229,KALYAN                                            ,Others,2017-06-13 12:28:55.617,Others,THANE,visit to Tahsil Agricultural Officer to getting detail information about Govt. Schemes.,Farmer asked about govt. Schemes?,Government Schemes,KHARIF,AGRICULTURE,MAHARASHTRA
+230,BHIWANDI,Vegetables,2017-06-13 19:53:15.980,Bhindi(Okra/Ladysfinger),THANE,VARIETIES OF BHENDI -PHULE UTKARSHA PARBHANI KRANTI ARKA ANAMIKA ARKA ABHAY MAHYCO -64 SHAN SAHIBA,VARIETIES OF BHENDI ?,Seeds and Planting Material,KHARIF,HORTICULTURE,MAHARASHTRA
+231,SHAHAPUR                                          ,Vegetables,2017-06-14 10:53:57.670,Bhindi(Okra/Ladysfinger),THANE,VARIETIES OF BHENDI -PHULE UTKARSHA PARBHANI KRANTI ARKA ANAMIKA ARKA ABHAY MAHYCO -64 SHAN SAHIBA,VARIETIES OF BHENDI ?,Seeds and Planting Material,JAYAD,HORTICULTURE,MAHARASHTRA
+232,THANE                                             ,Inland,2017-06-15 19:00:20.753,Others,THANE,"Maharashtra Animal and Fishery Sciences University, Nagpur -0712 2511784",ASKING ABOUT DETAIL INFORMATION ABOUT FISHERIES ?,Fishery Mechanization,JAYAD,FISHERIES,MAHARASHTRA
+233,PALGHAR                                           ,Fruits,2017-06-16 19:10:15.923,Mango,THANE,Spray Profex super 30 ml/15 liter water.( Profenofos 40% + Cypermethrin4% )Nagarjuna,Attack of Fruit Borer ? ?? ???????? ???,	Plant Protection	,RABI,HORTICULTURE,MAHARASHTRA
+234,DAHANU                                            ,Others,2017-06-17 14:16:49.810,Others,THANE,"cloudy weather  rainfall chances today
+Overcast and light rain
+temprature : +24°
+Humidity: 95.9%",Asking about weather forecast ?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+235,BHIWANDI,Others,2017-06-20 14:31:43.650,Others,THANE,There will be cloudy weather in next week and it is possible to moderate to moderate rainfall.The weather department estimates that monsoon will reach all the states till 20 - 23 June,Farmer Asking about weather forecast ?,Weather,RABI,AGRICULTURE,MAHARASHTRA
+236,PALGHAR                                           ,Others,2017-06-23 08:12:15.557,Others,THANE,This week weather is CLOUDY and LIGHT Possibility of Rainfall,Asking about weather forecast?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+237,AMBERNATH                                         ,Vegetables,2017-06-23 15:17:24.307,Bhindi(Okra/Ladysfinger),THANE,Spray Chloropyriphos 30ml/15 Liter of Water.,Attack of Caterpillar,Bio-Pesticides and Bio-Fertilizers,KHARIF,HORTICULTURE,MAHARASHTRA
+238,THANE                                             ,Others,2017-06-27 10:37:14.820,Others,THANE,This week weather is CLOUDY and LIGHT Possibility of Rainfall,Asking about weather forecast?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+239,AMBERNATH                                         ,Others,2017-06-29 15:43:25.397,Others,THANE,"Krishi Vigyan Kendra
+
+Address: Kosbad Hill, Tal- Dahanu, Thane, Maharashtra 401 703
+Phone: 02528 241 439",govt schemes,Government Schemes,KHARIF,AGRICULTURE,MAHARASHTRA
+240,THANE                                             ,Fruits,2017-07-06 10:32:14.560,Custard Apple,THANE,SPRAY M 45 30 GM /15 LITER WATER(mancozeb)Dow Agro,Attack of  blight ?,	Plant Protection	,KHARIF,HORTICULTURE,MAHARASHTRA
+241,THANE                                             ,Others,2017-07-06 10:56:38.640,Others,THANE,"Today's Weather is Partly cloudy, Possibility of Rain.",Asking About Weather Forecast ?,Weather,JAYAD,AGRICULTURE,MAHARASHTRA
+242,KALYAN                                            ,Vegetables,2017-07-06 11:02:59.633,Bottle Gourd ,THANE,SPRAY PLANOFIX 5 ML(Bayer/15 LITER WATER,FLOWER DROP,	Plant Protection	,KHARIF,HORTICULTURE,MAHARASHTRA
+243,SHAHAPUR                                          ,Others,2017-07-06 11:54:42.597,Others,THANE,"ADDRESS:
+Krishi Vigyan Kendra,
+Palgher, Kosbad Hill
+Tal- Dahanu, Dist- Thane,
+Maharashtra- 401 703,
+
+MOBILE : 9890577525",kvk thane contact no?,Government Schemes,KHARIF,AGRICULTURE,MAHARASHTRA
+244,MURBAD                                            ,Others,2017-07-06 16:36:14.133,Others,THANE,Cloudy weather Possibility of High to Medium Rainfall,Asking about Weather information?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+245,SHAHAPUR                                          ,Vegetables,2017-07-08 11:07:42.490,Bitter Gourd,THANE,SPRAY MICROLA 30 ML + BAVISTIN 30 GM  /15 LITER WATER,YELLOWING?,	Plant Protection	,KHARIF,HORTICULTURE,MAHARASHTRA
+246,BHIWANDI,Others,2017-07-08 16:48:09.840,Others,THANE,THIS WEEK WEATHER IS CLOUDY WITH CHANCES OF LIGHT RAINFALL. temperature  Hi: +33° Lo: +26°,Asking about weather forecast ?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+247,BHIWANDI,Fruits,2017-07-09 18:47:32.133,Mango,THANE,plantation distance in mango- 9*9 meter,plantation distance in mango ?,Cultural Practices,KHARIF,HORTICULTURE,MAHARASHTRA
+248,BHIWANDI,Fruits,2017-07-11 11:25:19.273,Lemon,THANE,Spray Proclaim 5 gm/15 liter of Water(Emamectin Benzoate)Syngenta,Attack of Caterpillar?,	Plant Protection	,KHARIF,HORTICULTURE,MAHARASHTRA
+249,THANE                                             ,Others,2017-07-13 08:56:16.883,Others,THANE,"Address: Kosbad Hill, Tal- Dahanu, Thane, Maharashtra 401 703
+Phone:02528 241 439",asking about kvk contact number in thane ?,Government Schemes,RABI,AGRICULTURE,MAHARASHTRA
+250,BHIWANDI,Others,2017-07-13 18:14:36.817,Others,THANE,"Today's Weather is clear, No Possibility of Rain.",Asking About Weather Forecast ?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+251,BHIWANDI,Others,2017-07-15 16:18:49.887,Others,THANE,Spray Chlorpyrifos 30ml/15 Liter of Water.,Attack of Caterpillar  ??? ?????? ???,	Plant Protection	,KHARIF,AGRICULTURE,MAHARASHTRA
+252,BHIWANDI,Others,2017-07-21 18:23:28.103,Others,THANE,"Krishi Vigyan Kendra  , Kosbad Hill, Tal- Dahanu, Thane, Maharashtra 401 703 ,Phone: 02528 241 439","asked about Krishi Vigyan Kendra , Thane  info  ?",Cultural Practices,KHARIF,AGRICULTURE,MAHARASHTRA
+253,KALYAN                                            ,Others,2017-07-21 19:42:18.317,Others,THANE,THIS WEEK WEATHER IS CLOUDY LIGHT RAINFALL CHANCES,Asking about weather forecast  ?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+254,KALYAN                                            ,Others,2017-07-22 15:53:12.050,Others,THANE,This Week Weather is Partly Cloudy and Possibility of light and meduim Rainfall.,Asking About Weather Forecast?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+255,BHIWANDI,Fruits,2017-07-23 14:58:18.310,Mango,THANE,Spray 19:19:19 60 Gm + MICROLLA 40 ML + BAVISTIN 30 GM/15 LITER WATER.,FERTILIZER SPRAY IN MANGO ?,Nutrient Management,KHARIF,HORTICULTURE,MAHARASHTRA
+256,BHIWANDI,Others,2017-07-27 09:31:47.250,Others,THANE,Your SMS Registration process successfully completed.,ASKED ABOUT SMS ACTIVATION?,Government Schemes,KHARIF,AGRICULTURE,MAHARASHTRA
+257,KALYAN                                            ,Others,2017-07-27 12:09:32.810,Others,THANE,visit to TAO to getting detail information about Govt. Schemes.,Farmer asked about govt. Schemes?,Government Schemes,KHARIF,AGRICULTURE,MAHARASHTRA
+258,DAHANU                                            ,Others,2017-08-01 10:10:30.127,Others,THANE,TO START SMS SERVICE PLEASE TYPE SMS  Kisaan1 AND SEND IT TO 7738299899,Asked About SMS Activation?,Government Schemes,JAYAD,AGRICULTURE,MAHARASHTRA
+259,KALYAN                                            ,Others,2017-08-05 15:01:15.250,Others,THANE,CONTACT NUMBER FOR PRADHANMANTRI CROP INSURANCE SCHEME -1800 2660 700 CALL ON THIS NUMBER BEFORE 48 HOURS,ASKING ABOUT CONTACT NUMBER FOR PRADHANMANTRI CROP INSURANCE SCHEME ?,Crop Insurance,KHARIF,AGRICULTURE,MAHARASHTRA
+260,WADA                                              ,Others,2017-08-10 16:10:05.730,Others,THANE,This week weather is CLOUDY and LIGHT Possibility of Rainfall,Asking about weather forecast?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+261,BHIWANDI,Animal,2017-08-17 15:12:16.207,POULTRY  FARM ,THANE,CONTACT NO OF ANIMAL HUSBANDARY DEPARTMENT = 1800 233 3268,ASKING CONTACT NO OF ANIMAL HUSBANDARY DEPARTMENT ?,Credit,KHARIF,ANIMAL HUSBANDRY,MAHARASHTRA
+262,SHAHAPUR                                          ,Others,2017-08-18 20:30:14.050,Others,THANE,"mahatma phule krishi vidaypeeth rahuri , phone -02426-243373",asked about agriculture university contact no ?,Government Schemes,KHARIF,AGRICULTURE,MAHARASHTRA
+263,BHIWANDI,Others,2017-08-20 13:23:06.307,Others,THANE,THIS WEEK WEATHER IS CLOUDY LIGHT RAINFALL CHANCES,Asking about weather forecast ?,Weather,JAYAD,AGRICULTURE,MAHARASHTRA
+264,BHIWANDI,Fiber Crops,2017-08-21 08:57:38.730,Cotton (Kapas),THANE,"excite 15 mili  +  karate 15  mili   /pamp  spray  on crop .  
+.",plant  protection,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+265,KALYAN                                            ,Others,2017-08-21 15:44:48.687,Others,THANE,THIS WEEK WEATHER IS CLOUDY WITH POSSIBILITY OF LIGHT RAINFALL CHANCES .,Asking about weather forecast ?,	Plant Protection	,KHARIF,AGRICULTURE,MAHARASHTRA
+266,PALGHAR                                           ,Vegetables,2017-08-22 10:39:42.417,Bhindi(Okra/Ladysfinger),THANE,Spray Chloropyriphos 30 ml/15 Lit of Water.,ATTACK OF LEAF EATING CATERPILLAR ?,	Plant Protection	,KHARIF,HORTICULTURE,MAHARASHTRA
+267,JAWHAR                                            ,Others,2017-08-26 21:26:48.267,Others,THANE,Type sms  KISAAN STOP to 51969 for deactivation.,Asked about SMS service Deactivation?,Government Schemes,KHARIF,AGRICULTURE,MAHARASHTRA
+268,MURBAD                                            ,Cereals,2017-08-31 09:33:06.163,Paddy (Dhan),THANE,Use Fertera 4 kg /acre,Attack of White Grub ?,	Plant Protection	,KHARIF,AGRICULTURE,MAHARASHTRA
+269,BHIWANDI,Others,2017-09-05 08:32:52.740,Others,THANE,Today Weather is partially cloudy and No possibility of Rainfall.,ASKING ABOUT WEATHER FORECAST?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+270,BHIWANDI,Others,2017-09-06 18:36:58.213,Others,THANE,This week weather is Partly cloudy and Possibility of Rainfall.,Asking about weather forecast?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+271,MURBAD                                            ,Vegetables,2017-09-07 08:32:17.323,Bitter Gourd,THANE,Spray Tilt 250 EC/15 Lit of Water. (Propiconazole 250 EC) SYNGENTA,WILT ATTACK  ?,	Plant Protection	,KHARIF,HORTICULTURE,MAHARASHTRA
+272,MOKHADA                                           ,Others,2017-09-09 16:50:08.410,Others,THANE,This week weather is CLOUDY and LIGHT Possibility of Rainfall,Asking about weather forecast?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+273,PALGHAR                                           ,Others,2017-09-13 09:20:25.117,Others,THANE,This week weather is CLOUDY and  Possibility of Rainfall,Asking about weather forecast?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+274,THANE                                             ,Others,2017-09-14 20:50:03.473,Others,THANE,"Sky is likely to be generally CLOUDY, light RAINFALL CHANCES .",ASKING ABOUT WEATHER INFORMATION ?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+275,BHIWANDI,Others,2017-09-18 20:52:52.747,Others,THANE,This week weather is CLOUDY and LIGHT Possibility of Rainfall,'Asking about weather forecast?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+276,KALYAN                                            ,Condiments and Spices,2017-09-19 12:18:20.667,Cardamom,THANE,DR BALASAHEB SAWANT KONKAN KRISHI VIDYAPEETH DAPOLI -02358 280238 /280558,DR BALASAHEB SAWANT KONKAN KRISHI VIDYAPEETH DAPOLI contact no?,Spices and Condiment Crops,KHARIF,HORTICULTURE,MAHARASHTRA
+277,KALYAN                                            ,Others,2017-09-19 12:23:38.103,Others,THANE,CONTACT NUMBER OF BALASAHEB SAWANT KOKAN KRUSHI VIDHYAPEETH =  02358 282 065,CONTACT NUMBER OF BALASAHEB SAWANT KOKAN KRUSHI VIDHYAPEETH,Government Schemes,KHARIF,AGRICULTURE,MAHARASHTRA
+278,MURBAD                                            ,Fiber Crops,2017-09-20 14:45:34.673,Cotton (Kapas),THANE,Spray Actra 5 gm + BAVISTIN- 30 GRAM /15 Liter of Water(Thiomithoxom 25%)-Syngenta,Attack of Jassids/Leaf hoppers ?,	Plant Protection	,KHARIF,AGRICULTURE,MAHARASHTRA
+279,DAHANU                                            ,Vegetables,2017-09-21 11:47:28.860,Cauliflower,THANE,"VARIETIES OF CAULIFLOWER - PUSA KATAKI, EARLY KUVARI , EARLY PATNA , SNOW BALL 16",ASKED ABOUT VARIETIES OF CAULIFLOWER ?,Credit,KHARIF,HORTICULTURE,MAHARASHTRA
+280,SHAHAPUR                                          ,Others,2017-09-21 14:20:41.537,Others,THANE,THIS WEEK WEATHER IS CLEAR  NO RAINFALL CHANCES,Asking about weather forecast ?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+281,MURBAD                                            ,Others,2017-09-22 11:12:16.703,Others,THANE,This week weather is Partly cloudy and Possibility of Rainfall.,Asking about weather forecast?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+282,PALGHAR                                           ,Others,2017-09-23 09:58:29.493,Others,THANE,This week weather is CLOUDY and  of  Possibility LIGHT Rainfall,Asking about weather forecast?Asking about weather forecast?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+283,KALYAN                                            ,Animal,2017-09-25 18:30:13.000,"Bovine(Cow,Buffalo)",THANE,CONTACT NO OF ANIMAL HUSBANDARY DEPARTMENT = 1800 233 3268,ASKING CONTACT NO OF ANIMAL HUSBANDARY DEPARTMENT ?,Dairy Production,KHARIF,ANIMAL HUSBANDRY,MAHARASHTRA
+284,MURBAD                                            ,Others,2017-09-25 18:30:15.553,Others,THANE,This week weather is cloudy and light to medium possibility of Rainfall.,Asking about weather forecast ?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
+285,THANE                                             ,Others,2017-09-26 12:34:27.090,Others,THANE,This week weather is CLOUDY and  of  Possibility LIGHT Rainfall,Asking about weather forecast?,Weather,KHARIF,AGRICULTURE,MAHARASHTRA
