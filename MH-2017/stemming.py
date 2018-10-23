@@ -2,7 +2,7 @@ from nltk.stem import PorterStemmer, WordNetLemmatizer
 from nltk.corpus import stopwords as stopwords
 import pandas as pd
 import csv, operator
-import spell_correct_functions
+from spellcorrect import spell_correct_functions
 import re
 
 Ishtopwords = set(stopwords.words('english'))
@@ -10,7 +10,7 @@ Ishtopwords = set(stopwords.words('english'))
 
 def data_cleaning():
 
-    crop_names = pd.read_csv('Cropnames_Indianlanguages.csv')
+    crop_names = pd.read_csv('../spellcorrect/Cropnames_Indianlanguages.csv')
     crop_common_name = crop_names['English']
     crop_hindi_name = crop_names['Hindi']
     crop_hindi_eng_dict = {}
@@ -63,10 +63,10 @@ def data_cleaning():
             '''
             spell correct
             '''
-            # if text[i] in crop_hindi_eng_dict.keys():
-            #     text[i] = crop_hindi_eng_dict[text[i]]
-            # else:
-            #     text[i] = spell_correct_functions.correction(text[i])
+            if text[i] in crop_hindi_eng_dict.keys():
+                text[i] = crop_hindi_eng_dict[text[i]]
+            else:
+                text[i] = spell_correct_functions.correction(text[i])
 
             #text[i] = ps.stem(text[i].decode('utf-8'))
             #text[i] = wn.lemmatize(text[i].decode('utf-8'))
@@ -121,6 +121,7 @@ def data_cleaning():
 
     df = pd.DataFrame(ll)
     df.to_csv('all_files.csv')
+    print df
     return df
 
 data_cleaning()
