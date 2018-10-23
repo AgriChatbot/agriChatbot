@@ -19,7 +19,7 @@ def data_cleaning():
     #crop_hindi_eng_dict
 
     data =[]
-    for i in xrange(35,36):
+    for i in xrange(1,36):
         filename = '11_'+str(i)+'.csv'
         with open(filename, 'r') as File: 
             reader = csv.DictReader(File)
@@ -60,10 +60,13 @@ def data_cleaning():
         text = re.findall(r'\w+' ,questions[qi].lower())
         for i in xrange(len(text)):
 
-            if text[i] in crop_hindi_eng_dict.keys():
-                text[i] = crop_hindi_eng_dict[text[i]]
-            else:
-                text[i] = spell_correct_functions.correction(text[i])
+            '''
+            spell correct
+            '''
+            # if text[i] in crop_hindi_eng_dict.keys():
+            #     text[i] = crop_hindi_eng_dict[text[i]]
+            # else:
+            #     text[i] = spell_correct_functions.correction(text[i])
 
             #text[i] = ps.stem(text[i].decode('utf-8'))
             #text[i] = wn.lemmatize(text[i].decode('utf-8'))
@@ -117,5 +120,7 @@ def data_cleaning():
         ll.append(g)
 
     df = pd.DataFrame(ll)
+    df.to_csv('all_files.csv')
     return df
 
+data_cleaning()
