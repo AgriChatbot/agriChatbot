@@ -19,7 +19,7 @@ def data_cleaning():
     #crop_hindi_eng_dict
 
     data =[]
-    for i in xrange(1,36):
+    for i in xrange(35,36):
         filename = '11_'+str(i)+'.csv'
         with open(filename, 'r') as File: 
             reader = csv.DictReader(File)
@@ -80,11 +80,10 @@ def data_cleaning():
     # print len(voc_stats)
     # print voc_stats
 
-    df1 = df[['QueryText', 'KCCAns']]
+    df1 = df[['QueryText', 'KCCAns', 'DistrictName', 'StateName']]
     df1.drop_duplicates(inplace=True)
     df2 =  df1.sort_values(by=['QueryText'])
 
-    df2.to_csv('edited_df_for_MH_upto_19.csv')
 
     for i in xrange(len(df2)):
         try:
@@ -105,17 +104,20 @@ def data_cleaning():
                     q_a[df2.iloc[r]['QueryText']].append(df2.iloc[r]['KCCAns'])
                     c += 1
             except:
-                q_a[df2.iloc[r]['QueryText']] = [df2.iloc[r]['KCCAns']]
+                q_a[df2.iloc[r]['QueryText']] = [df2.iloc[r]['DistrictName'], df2.iloc[r]['StateName'], df2.iloc[r]['KCCAns']]
 
     ll = []
     for key in q_a.keys():
         g = {
             'questions': key,
-            'answers': q_a[key]
+            'answers': q_a[key][2:],
+            'district': q_a[key][0],
+            'state': q_a[key][1]
         }
         ll.append(g)
 
     df = pd.DataFrame(ll)
+    print df
     return df
 
-
+data_cleaning()
