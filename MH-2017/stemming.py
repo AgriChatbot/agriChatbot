@@ -19,8 +19,8 @@ def data_cleaning():
     #crop_hindi_eng_dict
 
     data =[]
-    for i in xrange(19,20):
-        filename = 'data/'+str(i+1)+'.csv'
+    for i in xrange(1,36):
+        filename = '11_'+str(i)+'.csv'
         with open(filename, 'r') as File: 
             reader = csv.DictReader(File)
             for row in reader:
@@ -107,5 +107,14 @@ def data_cleaning():
             except:
                 q_a[df2.iloc[r]['QueryText']] = [df2.iloc[r]['KCCAns']]
 
-    return q_a
+    ll = []
+    for key in q_a.keys():
+        g = {
+            'questions': key,
+            'answers': q_a[key]
+        }
+        ll.append(g)
+
+    df = pd.DataFrame(ll)
+    return df
 
