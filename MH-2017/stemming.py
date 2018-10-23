@@ -117,7 +117,5 @@ def data_cleaning():
         ll.append(g)
 
     df = pd.DataFrame(ll)
-    print df
     return df
 
-data_cleaning()
