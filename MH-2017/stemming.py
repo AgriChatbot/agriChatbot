@@ -29,7 +29,7 @@ def data_cleaning():
     stopwords = ['about', '?', 'of', 'ask', 'in', 'of', 'at']
     ps = PorterStemmer()
     wn = WordNetLemmatizer()
-    df = pd.DataFrame(data)[:100]
+    df = pd.DataFrame(data)[:]
     # print df
     # print df
 
