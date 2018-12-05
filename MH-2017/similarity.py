@@ -5,9 +5,11 @@ from nltk.stem import WordNetLemmatizer, PorterStemmer
 from nltk.tokenize import word_tokenize
 
 
-def jaccard_sim(list_test, list_train):
-    test = set(list_test)
-    train = set(list_train)
+def compute_jaccard_sim(test_sent, train_sent):
+    test_sent = test_sent.lower().split() 
+    train_sent = train_sent.lower().split()
+    test = set(test_sent)
+    train = set(train_sent)
     c = test.intersection(train)
     # return float(len(c)) / (len(test) + len(train) - len(c)) 
     return float(len(c)) / (len(test) + 1)
@@ -59,15 +61,52 @@ sent1 = "what is market rate of onion"
 sent2 = "pesticide rate of onion is 5"
 
 c = compute_lesk_score(sent1, sent2)
-j = jaccard_sim(sent1.lower().split(), sent2.lower().split())
+j = compute_jaccard_sim(sent1, sent2)
 
-print c,j
+# print c,j
 
 
 # Test
 
 import pandas as pd
-def test():
+
+
+def test_answer():
+    df = pd.read_csv('metric_test.csv')
+    test_question = list(df['1'] )
+    predicted_question = list(df['3'] )
+
+    list_jaccard = []
+    list_lesk = []
+
+    count_jaccard = 0
+    count_jaccard_threshold = 0
+    count_lesk = 0
+    count_lesk_threshold = 0
+
+
+    for test,pred in zip(test_question, predicted_question):
+        pred_ans = pred
+        # for pred_ans in pred:
+        # print test, pred_ans
+        js = compute_jaccard_sim(test , pred_ans)
+        lesk_s = compute_lesk_score(test, pred_ans)
+        list_jaccard.append(js)
+        list_lesk.append(lesk_s)
+        
+        if lesk_s>0.95:
+            count_lesk_threshold += 1
+        if lesk_s>0:
+            count_lesk += 1
+        if js>0.8:
+            count_jaccard_threshold += 1
+        if js>0:
+            count_jaccard += 1
+
+    print count_lesk, count_jaccard
+    print count_lesk_threshold, count_jaccard_threshold
+
+def test_question():
     df = pd.read_csv('metric_test.csv')
     test_question = list(df['0'] )
     predicted_question = list(df['2'] )
@@ -76,23 +115,22 @@ def test():
     list_lesk = []
 
     count_jaccard = 0
-    count_jaccard_half = 0
+    count_jaccard_threshold = 0
     count_lesk = 0
-    count_lesk_half = 0
-
+    count_lesk_threshold = 0
 
     for test,pred in zip(test_question, predicted_question):
-        js = jaccard_sim(test.lower().split() , test.lower().split())
+        js = compute_jaccard_sim(test , pred)
         lesk_s = compute_lesk_score(test, pred)
         list_jaccard.append(js)
         list_lesk.append(lesk_s)
         
         if lesk_s>0.95:
-            count_lesk_half += 1
+            count_lesk_threshold += 1
         if lesk_s>0:
             count_lesk += 1
-        if js>0.8:
-            count_jaccard_half += 1
+        if js>0.55:
+            count_jaccard_threshold += 1
         if js>0:
             count_jaccard += 1
 
@@ -109,4 +147,8 @@ def test():
 
     print count_ground_truth
     print count_lesk, count_jaccard
-    print count_lesk_half, count_jaccard_half
+    print count_lesk_threshold, count_jaccard_threshold
+
+
+# test_question()
+# test_answer()
