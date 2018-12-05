@@ -12,7 +12,6 @@ import sys
 
 # In[3]:
 
-
 dimen = int(sys.argv[1])
 a = float(sys.argv[2])
 pca_text = str(sys.argv[3])

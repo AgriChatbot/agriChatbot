@@ -13,7 +13,6 @@ import scipy
 from scipy.linalg import svd
 from sklearn.decomposition import PCA
 
-
 # In[92]:
 
 def pre(filename):
@@ -41,6 +40,7 @@ def pre(filename):
 
     maharashtra = pd.DataFrame(final)
     maharashtra.columns = ['Query','Ans','District','State']
+    maharashtra = maharashtra.sample(frac=1)
 
     main = []
     for w in list(maharashtra['Query']):
@@ -57,7 +57,7 @@ def pre(filename):
 
         #new_maharashtra.append([maharashtra['District'][w],maharashtra["State"][w]] + temp)
         new_maharashtra.append(temp)
-
+ 
     t = FreqDist(all_words)
     u = FreqDist(district)
     v = FreqDist(state)
@@ -88,7 +88,8 @@ def word2vec_QAmodel(u,v,t,new_maharashtra,dimen,a,**pca):
 #                 factor = 0.0001/(0.0001 + v[j]/v.N())
 #             if c in [3,4,5]:
 #                 factor = 1#a/(a + t[j]/t.N())
-            factor = 1
+            factor = a/(a + t[j]/t.N()) #1
+            # factor = 1000
             value += model[j]*factor
 
         value = value/count
@@ -129,6 +130,57 @@ def test_query(u,v,t,input_list,dimen,no_similar,a,**pca):
     state = input_list[1]
     sent = input_list[2]
 
+    # sent_words = [district,state] + sent.split(" ")
+    sent_words = sent.split(" ")
+
+    sent_value = np.array([0.0 for k in range(dimen)])
+
+    sent_new = []
+    count = 0
+
+    for i in sent_words:
+        if i not in stop_words:
+            try:
+                # if count in [0]:
+                #     factor = a/(a + u[i]/u.N())
+                # if count in [1]:
+                #     factor = a/(a + v[i]/v.N())
+                # if count in [2,3,4]:
+                #     factor = a/(a + t[i]/t.N())
+                factor = a/(a + t[i]/t.N())#1
+                # factor = 1000
+                sent_value += model[i]*factor
+                count += 1
+
+            except:
+                count += 1
+                continue
+
+    sent_value = sent_value/count
+    
+    if pca == 'Yes':
+        sent_value = sent_value - u_ut*np.array(sent_value)
+
+    all_dist = []
+    for i in word2vec_value:
+        dist = scipy.spatial.distance.cosine(i,sent_value)
+        all_dist.append(dist)
+
+    k = no_similar
+    ind = np.argpartition(all_dist, k)[:k]
+    
+    return ind
+
+def test_metric(u,v,t,sent,dimen,no_similar,a,model,word2vec_value,**pca):
+    stop_words = set(stopwords.words('english')) 
+    
+    # word2vec_value = np.load('word2vec_value.npy')
+    # model = Word2Vec.load('model_word2vec.bin')
+    
+    # district = input_list[0]
+    # state = input_list[1]
+    # sent = input_list[2]
+
     #sent_words = [district,state] + sent.split(" ")
     sent_words = sent.split(" ")
 
@@ -140,13 +192,14 @@ def test_query(u,v,t,input_list,dimen,no_similar,a,**pca):
     for i in sent_words:
         if i not in stop_words:
             try:
-#                 if count in [0]:
-#                     factor = 1/(1 + u[i]/u.N())
-#                 if count in [1]:
-#                     factor = 0.0001/(0.0001 + v[i]/v.N())
-#                 if count in [2,3,4]:
-#                     factor = 1#a/(a + t[i]/t.N())
-                factor = 1
+                # if count in [0]:
+                #     factor = a/(a + u[i]/u.N())
+                # if count in [1]:
+                #     factor = a/(a + v[i]/v.N())
+                # if count in [2,3,4]:
+                #     factor = a/(a + t[i]/t.N())
+                factor = a/(a + t[i]/t.N()) #1
+                # factor = 1000
                 sent_value += model[i]*factor
                 count += 1
 
