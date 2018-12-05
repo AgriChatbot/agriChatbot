@@ -7,15 +7,19 @@
 import pandas as pd
 import string
 import word2vec_m as wv
-import weather_api
+# import weather_api
 from gensim.models import Word2Vec
 import numpy as np
 import sys
+
+import similarity
 
 dimen = int(sys.argv[1])
 k = int(sys.argv[2])
 a = float(sys.argv[3])
 pca_text = str(sys.argv[4])
+
+file_name = 'metric_test_dimen{}_k{}_a{}.csv'.format(dimen, k, a)
 
 u, v, t, new_maharashtra, maharashtra = wv.pre('all_files.csv')
 
@@ -30,12 +34,22 @@ test_data = maharashtra['Query'][train_size:]
 wv.word2vec_QAmodel(u, v, t, train_data, dimen, a, pca=pca_text)
 
 district = 'Pune'
-state = 'Maha'
+state = 'Maharashtra'
  
 #### Answer #####
 
 word2vec_value = np.load('word2vec_value.npy')
 model = Word2Vec.load('model_word2vec.bin')
+
+count_lesk = 0
+count_jaccard = 0
+count_lesk_threshold = 0
+count_jaccard_threshold = 0
+threshold_lesk = 0.95
+threshold_jaccard = 0.8
+# threshold_lesk = 0.8
+# threshold_jaccard = 0.7
+total_count = 0
 
 vayu = []
 c = 0
@@ -48,22 +62,35 @@ for i,query in enumerate(list(test_data)[:100]):
 
     pdf = maharashtra.reset_index()
     c += 1
-    print c
+#     print c
     
     for j in ind:
-       vayu.append([query, list(maharashtra['Ans'][train_size:])[i], pdf['Query'][j], pdf['Ans'][j]])
+       total_count += 1
+       lesk_score = similarity.compute_lesk_score(query, pdf['Query'][j])
+       jaccard_score = similarity.compute_jaccard_sim(query, pdf['Query'][j])
+
+       if lesk_score>threshold_lesk:
+              count_lesk_threshold += 1
+       if lesk_score>0:
+              count_lesk += 1
+       if jaccard_score>threshold_jaccard:
+              count_jaccard_threshold += 1
+       if jaccard_score>0:
+              count_jaccard += 1
+
+       vayu.append([lesk_score, jaccard_score, query, list(maharashtra['Ans'][train_size:])[i], pdf['Query'][j], pdf['Ans'][j]])
+
+print "total count:", total_count
+print "count_jaccard_threshold: ", count_jaccard_threshold
+print "count_lesk_threshold: ", count_lesk_threshold
+
 
 vayu = pd.DataFrame(vayu)
-vayu.to_csv('metric_test_1.csv')
+vayu.to_csv('./metric/{}'.format(file_name))
+
 
 
 
 
 
 # wv.print_ans(ind, maharashtra, k)
-
-# In[55]:
-
-
-
-
