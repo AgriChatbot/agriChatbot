@@ -234,7 +234,8 @@ def print_ans(ind, pdf, k):
     print 'Top-%d\n\n'%(k)
     for i in ind:
         print 'Question: %s\nAnswer: %s\n\n'%(pdf['Query'][i],pdf['Ans'][i])
-    
+
+
 
 
 # In[91]:
