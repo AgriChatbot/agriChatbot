@@ -49,7 +49,7 @@ print '\nGive me a second\n\n'
 query = query.lower()
 input_list = [district,state,query]
 
-weather_api.daily(district+','+state)
+# weather_api.daily(district+','+state)
 
 if 'weather' in query:
     weat = weather_api.daily(district+','+state)

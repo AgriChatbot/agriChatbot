@@ -40,7 +40,7 @@ def pre(filename):
 
     maharashtra = pd.DataFrame(final)
     maharashtra.columns = ['Query','Ans','District','State']
-    maharashtra = maharashtra.sample(frac=1)
+    # maharashtra = maharashtra.sample(frac=1)
 
     main = []
     for w in list(maharashtra['Query']):
