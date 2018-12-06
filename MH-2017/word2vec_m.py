@@ -12,6 +12,9 @@ from nltk.probability import FreqDist, MLEProbDist
 import scipy
 from scipy.linalg import svd
 from sklearn.decomposition import PCA
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk.tag import pos_tag
 
 # In[92]:
 
@@ -237,6 +240,72 @@ def print_ans(ind, pdf, k):
 
 
 
+def entity(ind, input_list, pdf):
+
+    pattern = 'NP: {<DT>?<JJ>*<NN>}' #'NP: {<NNS>?<NN>}'
+    cp = nltk.RegexpParser(pattern)
+
+
+    to_input = []
+    sent = input_list
+    sent = nltk.pos_tag(sent)
+    cs = cp.parse(sent)
+
+    for i in cs:
+        try:
+            for j in range(10):
+                if i[j][1] == "NN" or i[j][1] == "JJ":
+                    to_input.append(i[j][0])
+
+        except:
+            pass
+            
+            
+    dictionary = ['farmer','krishi','dose', 'spray', 'information', 'market', 'rate', 'fertiliser', 'growth', 'variety', 'management']
+    
+    for i in dictionary:
+        if i in to_input:
+            to_input.remove(i)
+    
+    choose = []
+    
+    for i in ind:
+        to = []
+        sent = pdf['Query'][i]
+        sent = nltk.word_tokenize(sent)
+        sent = nltk.pos_tag(sent)
+        cs = cp.parse(sent)
+
+        for i in cs:
+            try:
+                for j in range(10):
+                    if i[j][1] == "NN" or i[j][1] == "JJ":
+                        to.append(i[j][0])
+
+            except:
+                pass
+
+        for i in dictionary:
+            if i in to:
+                to.remove(i)
+
+        to = set(to)
+        to_input = set(to_input)
+
+        sim = to_input.intersection(to)
+        choose.append(len(sim))
+    
+    hero = choose[0] 
+    flg = 0
+    
+    for i,w in enumerate(choose):
+        if w > hero:
+            hero = w
+            flg = i
+
+    return flg
+            
+        
 
 # In[91]:
 
