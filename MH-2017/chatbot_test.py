@@ -9,6 +9,7 @@ import string
 import word2vec_m as wv
 import weather_api
 import sys
+import data_cleaner
 
 dimen = int(sys.argv[1])
 k = int(sys.argv[2])
@@ -48,6 +49,7 @@ print '\nGive me a second\n\n'
 #### Answer #####
 query = query.lower()
 input_list = [district,state,query]
+query = data_cleaner.sentence_cleaner(query)
 
 # weather_api.daily(district+','+state)
 
@@ -62,6 +64,7 @@ if 'weather' in query:
     
     print '\nThank You for chatting'
     print '\nFor further information, contact KCC'
+    
 else:
     u, v, t, new_maharashtra, maharashtra = wv.pre('all_files.csv')
     ind = wv.test_query(u, v, t, input_list,dimen,k,a,pca=pca_text)

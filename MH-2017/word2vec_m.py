@@ -137,7 +137,7 @@ def test_query(u,v,t,input_list,dimen,no_similar,a,**pca):
     sent = input_list[2]
 
     sent = data_cleaner.sentence_cleaner(sent)
-
+    print sent
     # sent_words = [district,state] + sent.split(" ")
     sent_words = sent.split(" ")
 
@@ -294,7 +294,7 @@ def entity(ind, input_list, pdf):
         # if lesk > 0:
         #     flg = i
         #     break
-        
+
     hero = -1
     flg = -1
     

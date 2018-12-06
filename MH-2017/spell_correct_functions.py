@@ -48,6 +48,8 @@ def edits2(word):
     return (e2 for e1 in edits1(word) for e2 in edits1(e1))
 
 
+# print(correction('atteck'))
+# print(correction('bhendi'))
 # print(correction('menth'))
 # print(correction('informatioon'))
 # print(correction('informettion'))
