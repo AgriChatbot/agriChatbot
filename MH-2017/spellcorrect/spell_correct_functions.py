@@ -64,8 +64,8 @@ def correction(word):
     else:
         "Most probable spelling correction for word."
         word_spell_c = max(candidates(word), key=P)
-        if word_spell_c in crop_common_name:
-            word_spell_c = crop_common_name_dict[word_spell_c]    
+        # if word_spell_c in crop_common_name:
+        #     word_spell_c = crop_common_name_dict[word_spell_c]    
         return word_spell_c
 def candidates(word):
     # print('Hi from DB')
@@ -113,11 +113,11 @@ def edits2(word):
     "All edits that are two edits away from `word`."
     return (e2 for e1 in edits1(word) for e2 in edits1(e1))
 
-print(correction('atteck'))
-print(correction('bhendi'))
-print(correction('menth'))
-print(correction('informatioon'))
-print(correction('informetion'))
-print(correction('wether'))
-print(correction('weatther'))
-print(correction('wither'))
+# print(correction('atteck'))
+# print(correction('bhendi'))
+# print(correction('menth'))
+# print(correction('informatioon'))
+# print(correction('informetion'))
+# print(correction('wether'))
+# print(correction('weatther'))
+# print(correction('wither'))

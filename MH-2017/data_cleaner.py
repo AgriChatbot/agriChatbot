@@ -2,7 +2,7 @@ from nltk.stem import PorterStemmer, WordNetLemmatizer
 from nltk.corpus import stopwords as stopwords
 import pandas as pd
 import csv, operator
-from spellcorrect import spell_correct_functions
+import spell_correct_functions
 import re
 
 stop_words = set(stopwords.words('english'))
