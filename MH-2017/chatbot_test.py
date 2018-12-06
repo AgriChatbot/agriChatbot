@@ -72,7 +72,7 @@ else:
     if fin_index == -1:
         print "I apologise for the inconvenience but I may not be able to help."
     else:
-        wv.print_ans([fin_index], maharashtra, k)
+        wv.print_ans([ind[fin_index]], maharashtra, k)
 
     print '\nThank You for chatting'
     print '\nFor further information, contact KCC'

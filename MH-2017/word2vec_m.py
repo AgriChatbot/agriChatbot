@@ -16,6 +16,7 @@ import nltk
 from nltk.tokenize import word_tokenize
 from nltk.tag import pos_tag
 import similarity
+import data_cleaner
 import warnings
 warnings.filterwarnings("ignore")
 # In[92]:
@@ -135,6 +136,8 @@ def test_query(u,v,t,input_list,dimen,no_similar,a,**pca):
     state = input_list[1]
     sent = input_list[2]
 
+    sent = data_cleaner.sentence_cleaner(sent)
+
     # sent_words = [district,state] + sent.split(" ")
     sent_words = sent.split(" ")
 
@@ -249,8 +252,7 @@ def entity(ind, input_list, pdf):
                     to_input.append(i[j][0])
 
         except:
-            pass
-            
+            pass  
             
     dictionary = ['farmer','krishi','dose', 'spray', 'information', 'market', 'rate', 'fertiliser', 'growth', 'variety', 'management']
     
@@ -260,7 +262,6 @@ def entity(ind, input_list, pdf):
     
     choose = []
     
-    flg = -1
     for i in ind:
         to = []
         sent = pdf['Query'][i]
@@ -281,22 +282,27 @@ def entity(ind, input_list, pdf):
             if j in to:
                 to.remove(j)
 
+        # to = ' '.join(to)
+        # to_input = ' '.join(to_input)
+
         to = set(to)
         to_input = set(to_input)
+        # lesk = similarity.compute_lesk_score(to_input, to)
 
         sim = to_input.intersection(to)
-        # choose.append(len(sim))
-        if len(sim) == len(to_input):
+        choose.append(len(sim))
+        # if lesk > 0:
+        #     flg = i
+        #     break
+        
+    hero = -1
+    flg = -1
+    
+    for i,w in enumerate(choose):
+        if w > hero:
+            hero = w
             flg = i
-            break
-    
-    # hero = 0
-    # flg = 0
-    
-    # for i,w in enumerate(choose):
-    #     if w > hero:
-    #         hero = w
-    #         flg = i
+            print hero, flg
 
     return flg
             
@@ -304,7 +310,7 @@ def entity(ind, input_list, pdf):
 def find_best_answer(question,ans_list):
     max_ls = 0
     correct_answer = ans_list[0]
-    
+
     for ans in ans_list:
         lesk_score = similarity.compute_lesk_score(question, ans)
 
