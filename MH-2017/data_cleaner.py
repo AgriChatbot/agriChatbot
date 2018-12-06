@@ -24,12 +24,12 @@ def sentence_cleaner(sent):
 	p_text = []
 	p_sent = ''
 	for i,w in enumerate(text):
-		if w in crop_hindi_eng_dict:
-			text[i] = crop_hindi_eng_dict[w]
+		if w in stop_words:
+			continue
 		else:
-			text[i] = spell_correct_functions.correction(w)
-
-		if w not in stop_words:
+			w = spell_correct_functions.correction(w)
+			if w in crop_hindi_eng_dict:
+				w = crop_hindi_eng_dict[w]
 			p_text.append(w)
 			p_sent += w + ' '
 	return p_sent
