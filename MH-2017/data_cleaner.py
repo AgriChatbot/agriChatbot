@@ -10,7 +10,7 @@ ps = PorterStemmer()
 wn = WordNetLemmatizer()
 
 # crop names in other languages
-crop_names = pd.read_csv('../spellcorrect/Cropnames_Indianlanguages.csv')
+crop_names = pd.read_csv('Cropnames_Indianlanguages.csv')
 crop_common_name = crop_names['English']
 crop_hindi_name = crop_names['Hindi']
 crop_hindi_eng_dict = {}

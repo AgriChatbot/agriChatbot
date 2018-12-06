@@ -113,10 +113,11 @@ def edits2(word):
     "All edits that are two edits away from `word`."
     return (e2 for e1 in edits1(word) for e2 in edits1(e1))
 
-<<<<<<< HEAD
+# <<<<<<< HEAD
 
-=======
->>>>>>> 6c90f5322e61823b3cf1df40a77bb5b0d6ff5764
+# =======
+# >>>>>>> 6c90f5322e61823b3cf1df40a77bb5b0d6ff5764
+
 # print(correction('atteck'))
 # print(correction('bhendi'))
 # print(correction('menth'))
