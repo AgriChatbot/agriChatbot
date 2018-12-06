@@ -303,7 +303,8 @@ def entity(ind, input_list, pdf):
         
 def find_best_answer(question,ans_list):
     max_ls = 0
-    correct_answer = ''
+    correct_answer = ans_list[0]
+    
     for ans in ans_list:
         lesk_score = similarity.compute_lesk_score(question, ans)
 
