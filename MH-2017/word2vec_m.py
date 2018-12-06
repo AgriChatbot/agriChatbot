@@ -15,7 +15,9 @@ from sklearn.decomposition import PCA
 import nltk
 from nltk.tokenize import word_tokenize
 from nltk.tag import pos_tag
-
+import similarity
+import warnings
+warnings.filterwarnings("ignore")
 # In[92]:
 
 def pre(filename):
@@ -229,17 +231,6 @@ def test_metric(u,v,t,sent,dimen,no_similar,a,model,word2vec_value,**pca):
 # In[90]:
 
 
-def print_ans(ind, pdf, k):
-    
-    #pdf = maharashtra
-    pdf = pdf.reset_index()
-    
-    print 'Top-%d\n\n'%(k)
-    for i in ind:
-        print 'Question: %s\nAnswer: %s\n\n'%(pdf['Query'][i],pdf['Ans'][i])
-
-
-
 def entity(ind, input_list, pdf):
 
     pattern = 'NP: {<DT>?<JJ>*<NN>}' #'NP: {<NNS>?<NN>}'
@@ -269,6 +260,7 @@ def entity(ind, input_list, pdf):
     
     choose = []
     
+    flg = -1
     for i in ind:
         to = []
         sent = pdf['Query'][i]
@@ -276,38 +268,65 @@ def entity(ind, input_list, pdf):
         sent = nltk.pos_tag(sent)
         cs = cp.parse(sent)
 
-        for i in cs:
+        for k in cs:
             try:
                 for j in range(10):
-                    if i[j][1] == "NN" or i[j][1] == "JJ":
-                        to.append(i[j][0])
+                    if k[j][1] == "NN" or k[j][1] == "JJ":
+                        to.append(k[j][0])
 
             except:
                 pass
 
-        for i in dictionary:
-            if i in to:
-                to.remove(i)
+        for j in dictionary:
+            if j in to:
+                to.remove(j)
 
         to = set(to)
         to_input = set(to_input)
 
         sim = to_input.intersection(to)
-        choose.append(len(sim))
-    
-    hero = choose[0] 
-    flg = 0
-    
-    for i,w in enumerate(choose):
-        if w > hero:
-            hero = w
+        # choose.append(len(sim))
+        if len(sim) == len(to_input):
             flg = i
+            break
+    
+    # hero = 0
+    # flg = 0
+    
+    # for i,w in enumerate(choose):
+    #     if w > hero:
+    #         hero = w
+    #         flg = i
 
     return flg
             
         
+def find_best_answer(question,ans_list):
+    max_ls = 0
+    correct_answer = ''
+    for ans in ans_list:
+        lesk_score = similarity.compute_lesk_score(question, ans)
 
+        if lesk_score > max_ls:
+            max_ls = lesk_score
+            correct_answer = ans
+
+    return correct_answer
 # In[91]:
+
+def print_ans(ind, pdf, k):
+    
+    #pdf = maharashtra
+    pdf = pdf.reset_index()
+    
+    # print 'Top-%d\n\n'%(k)
+    exec("ans_list = %s"%(pdf['Ans'][ind[0]]))
+
+    query  = pdf['Query'][ind[0]]
+
+    ans = find_best_answer(query, ans_list)
+
+    print 'Question: %s\nAnswer: %s\n\n'%(pdf['Query'][ind[0]],ans)
 
 
 # u,v,t,new_maharashtra,maharashtra = preproc('all_files.csv')
