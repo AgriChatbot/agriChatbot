@@ -137,7 +137,6 @@ def test_query(u,v,t,input_list,dimen,no_similar,a,**pca):
     sent = input_list[2]
 
     sent = data_cleaner.sentence_cleaner(sent)
-    print sent
     # sent_words = [district,state] + sent.split(" ")
     sent_words = sent.split(" ")
 
@@ -332,9 +331,9 @@ def print_ans(ind, pdf, k):
     query  = pdf['Query'][ind[0]]
 
     ans = find_best_answer(query, ans_list)
-
+    # for i in ind:
+    # print 'Question: %s\nAnswer: %s\n\n'%(pdf['Query'][i],pdf['Ans'][i])
     print 'Question: %s\nAnswer: %s\n\n'%(pdf['Query'][ind[0]],ans)
-
 
 # u,v,t,new_maharashtra,maharashtra = preproc('all_files.csv')
 
